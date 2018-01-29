@@ -1,0 +1,361 @@
+VHT,7.8499999E9
+JNJ,Johnson & Johnson,9.86
+PFE,Pfizer Inc,6.12
+MRK,Merck & Co Inc,5.45
+UNH,UnitedHealth Group Inc,4.91
+AMGN,Amgen Inc,3.73
+MDT,Medtronic PLC,3.37
+ABBV,AbbVie Inc,3.16
+GILD,Gilead Sciences Inc,3.04
+CELG,Celgene Corp,2.86
+AGN,Allergan plc,2.75
+BMY,Bristol-Myers Squibb Co,2.61
+LLY,Eli Lilly & Co,2.43
+ABT,Abbott Laboratories,2.28
+BIIB,Biogen Inc,1.93
+TMO,Thermo Fisher Scientific Inc,1.91
+DHR,Danaher Corp,1.66
+ESRX,Express Scripts Holding Co,1.38
+SYK,Stryker Corp,1.32
+AET,Aetna Inc,1.32
+ANTM,Anthem Inc,1.29
+BDX,Becton Dickinson and Co,1.2
+CI,Cigna Corp,1.19
+BSX,Boston Scientific Corp,1.04
+MCK,McKesson Corp,0.99
+HUM,Humana Inc,0.94
+ALXN,Alexion Pharmaceuticals Inc,0.93
+REGN,Regeneron Pharmaceuticals Inc,0.88
+ISRG,Intuitive Surgical Inc,0.84
+ZTS,Zoetis Inc,0.82
+HCA,HCA Holdings Inc,0.77
+CAH,Cardinal Health Inc,0.76
+ZBH,Zimmer Biomet Holdings Inc,0.75
+ILMN,Illumina Inc,0.74
+BAX,Baxter International Inc,0.74
+VRTX,Vertex Pharmaceuticals Inc,0.67
+INCY,Incyte Corp,0.65
+EW,Edwards Lifesciences Corp,0.65
+BCR,CR Bard Inc,0.55
+MYL,Mylan NV,0.55
+ABC,AmerisourceBergen Corp,0.52
+CERN,Cerner Corp,0.52
+A,Agilent Technologies Inc,0.5
+BMRN,BioMarin Pharmaceutical Inc,0.47
+LH,Laboratory Corp of America Holdings,0.43
+XRAY,DENTSPLY International Inc,0.42
+HSIC,Henry Schein Inc,0.41
+DGX,Quest Diagnostics Inc,0.4
+Q,Quintiles Transnational Holdings Inc,0.36
+WAT,Waters Corp,0.36
+MTD,Mettler-Toledo International Inc,0.36
+IDXX,IDEXX Laboratories Inc,0.34
+PRGO,Perrigo Co PLC,0.34
+CNC,Centene Corp,0.34
+DVA,DaVita HealthCare Partners Inc,0.33
+UHS,Universal Health Services Inc,0.32
+HOLX,Hologic Inc,0.32
+RMD,ResMed Inc,0.3
+COO,Cooper Cos Inc,0.28
+ALKS,ALKERMES PLC,0.26
+EVHC,Envision Healthcare Holdings Inc,0.25
+TFX,Teleflex Inc,0.23
+JAZZ,JAZZ PHARMACEUTI,0.23
+WOOF,VCA Inc,0.23
+VAR,Varian Medical Systems Inc,0.23
+UTHR,United Therapeutics Corp,0.22
+DXCM,DexCom Inc,0.21
+ALGN,Align Technology Inc,0.21
+WCG,WellCare Health Plans Inc,0.2
+MD,MEDNAX Inc,0.2
+WST,West Pharmaceutical Services Inc,0.19
+STE,STERIS Corp,0.19
+SGEN,Seattle Genetics Inc,0.19
+TSRO,TESARO Inc,0.18
+PKI,PerkinElmer Inc,0.18
+IONS,IONIS PHARMACEUT,0.17
+MNK,Mallinckrodt PLC,0.16
+ATHN,athenahealth Inc,0.15
+ABMD,ABIOMED Inc,0.13
+EXEL,Exelixis Inc,0.13
+ARIA,ARIAD Pharmaceuticals Inc,0.13
+BIO,Bio-Rad Laboratories Inc,0.12
+HRC,Hill-Rom Holdings Inc,0.12
+CRL,Charles River Laboratories International Inc,0.12
+TECH,Bio-Techne Corp,0.12
+PRXL,PAREXEL International Corp,0.12
+NUVA,NuVasive Inc,0.11
+PDCO,Patterson Cos Inc,0.11
+HLS,HealthSouth Corp,0.11
+MASI,Masimo Corp,0.11
+NBIX,Neurocrine Biosciences Inc,0.11
+VEEV,Veeva Systems Inc,0.11
+CTLT,Catalent Inc,0.1
+ACAD,ACADIA Pharmaceuticals Inc,0.1
+TMH,Team Health Holdings Inc,0.1
+ALR,Alere Inc,0.1
+ALNY,Alnylam Pharmaceuticals Inc,0.09
+BLUE,Bluebird Bio Inc,0.09
+CMD,ProShares UltraShort Bloomberg Commodity,0.09
+OPK,OPKO Health Inc,0.09
+ACHC,Acadia Healthcare Co Inc,0.09
+MDSO,Medidata Solutions Inc,0.09
+INCR,INC Research Holdings Inc,0.09
+RARE,Ultragenyx Pharmaceutical Inc,0.08
+PBH,Prestige Brands Holdings Inc,0.08
+BKD,Brookdale Senior Living Inc,0.08
+CHE,Chemed Corp,0.08
+BRKR,Bruker Corp,0.08
+ENDP,ENDO INTERNATION,0.08
+MDCO,Medicines Co,0.08
+CLVS,Clovis Oncology Inc,0.08
+LPNT,LifePoint Health Inc,0.08
+IART,Integra LifeSciences Holdings Corp,0.07
+NEOG,Neogen Corp,0.07
+VWR,VWR Corp,0.07
+PODD,Insulet Corp,0.07
+HZNP,Horizon Pharma Plc,0.07
+PRAH,PRA Health Sciences Inc,0.07
+WMGI,Wright Medical Group Inc,0.07
+MOH,Molina Healthcare Inc,0.07
+OMI,Owens & Minor Inc,0.07
+LIVN,LIVANOVA PCL,0.06
+LGND,Ligand Pharmaceuticals Inc,0.06
+ICUI,ICU Medical Inc,0.06
+MDRX,Allscripts Healthcare Solutions Inc,0.06
+EXAS,Exact Sciences Corp,0.06
+HAE,Haemonetics Corp,0.06
+KITE,Kite Pharma Inc,0.06
+HQY,HealthEquity Inc,0.06
+ICPT,Intercept Pharmaceuticals Inc,0.06
+GMED,Globus Medical Inc,0.06
+PEN,PENUMBRA INC,0.06
+NVRO,Nevro Corp,0.05
+NKTR,Nektar Therapeutics,0.05
+HYH,Halyard Health Inc,0.05
+IRWD,Ironwood Pharmaceuticals Inc,0.05
+MGLN,Magellan Health Inc,0.05
+THC,Tenet Healthcare Corp,0.05
+NXTM,NxStage Medical Inc,0.05
+AMN,AMN HEALTHCARE,0.05
+CBM,Cambrex Corp,0.05
+ARRY,Array BioPharma Inc,0.05
+SCAI,Surgical Care Affiliates Inc,0.05
+ZLTQ,Zeltiq Aesthetics Inc,0.05
+SRPT,Sarepta Therapeutics Inc,0.05
+PTLA,Portola Pharmaceuticals Inc,0.04
+HMSY,HMS Holdings Corp,0.04
+PINC,Premier Inc,0.04
+SAGE,Sage Therapeutics Inc,0.04
+ONCE,Spark Therapeutics Inc,0.04
+AKRX,Akorn Inc,0.04
+PRTA,PROTHENA CORP PL,0.04
+AGIO,Agios Pharmaceuticals Inc,0.04
+PCRX,Pacira Pharmaceuticals Inc/DE,0.04
+JUNO,Juno Therapeutics Inc,0.04
+RDUS,Radius Health Inc,0.04
+SEM,Select Medical Holdings Corp,0.04
+OMCL,Omnicell Inc,0.04
+BABY,Natus Medical Inc,0.04
+AIRM,Air Methods Corp,0.04
+HALO,Halozyme Therapeutics Inc,0.04
+MNTA,Momenta Pharmaceuticals Inc,0.04
+SGYP,Synergy Pharmaceuticals Inc,0.04
+CYNO,Cynosure Inc,0.04
+XON,Intrexon Corp,0.04
+AMED,Amedisys Inc,0.03
+AERI,Aerie Pharmaceuticals Inc,0.03
+TBPH,THERAVANCE B,0.03
+FPRX,Five Prime Therapeutics Inc,0.03
+ABAX,Abaxis Inc,0.03
+FGEN,FibroGen Inc,0.03
+MMSI,Merit Medical Systems Inc,0.03
+MYGN,Myriad Genetics Inc,0.03
+SPNC,Spectranetics Corp,0.03
+DEPO,Depomed Inc,0.03
+VREX,VAREX IMAGIN,0.03
+SUPN,Supernus Pharmaceuticals Inc,0.03
+CNMD,CONMED Corp,0.03
+PBYI,Puma Biotechnology Inc,0.03
+EBS,Emergent BioSolutions Inc,0.03
+INGN,Inogen Inc,0.03
+RGEN,Repligen Corp,0.03
+VASC,Vascular Solutions Inc,0.03
+ENSG,Ensign Group Inc,0.03
+ALOG,Analogic Corp,0.03
+ACOR,Acorda Therapeutics Inc,0.03
+XNCR,Xencor Inc,0.02
+TXMD,TherapeuticsMD Inc,0.02
+AVXS,AVEXIS INC,0.02
+ITGR,INTEGER HOLDINGS,0.02
+USPH,US Physical Therapy Inc,0.02
+INSM,Insmed Inc,0.02
+TVTY,TIVITY HEALTH IN,0.02
+MDXG,MiMedx Group Inc,0.02
+IPXL,Impax Laboratories Inc,0.02
+BPMC,Blueprint Medicines Corp,0.02
+INVA,INNOVIVA INC,0.02
+ALDR,Alder Biopharmaceuticals Inc,0.02
+CSII,Cardiovascular Systems Inc,0.02
+AMAG,AMAG Pharmaceuticals Inc,0.02
+LMNX,Luminex Corp,0.02
+INOV,Inovalon Holdings Inc,0.02
+LHCG,LHC Group Inc,0.02
+PMC,PharMerica Corp,0.02
+ANIK,Anika Therapeutics Inc,0.02
+NHC,National HealthCare Corp,0.02
+CYH,Community Health Systems Inc,0.02
+ATRI,Atrion Corp,0.02
+FOLD,Amicus Therapeutics Inc,0.02
+QSII,Quality Systems Inc,0.02
+XLRN,Acceleron Pharma Inc,0.02
+DERM,Dermira Inc,0.02
+CHRS,Coherus Biosciences Inc,0.02
+LXRX,Lexicon Pharmaceuticals Inc,0.02
+OFIX,Orthofix International NV,0.02
+LOXO,Loxo Oncology Inc,0.02
+AXDX,Accelerate Diagnostics Inc,0.02
+EGRX,Eagle Pharmaceuticals Inc/DE,0.02
+KTWO,K2M Group Holdings Inc,0.02
+PGNX,Progenics Pharmaceuticals Inc,0.02
+ZIOP,ZIOPHARM Oncology Inc,0.02
+BEAT,BioTelemetry Inc,0.01
+RTRX,Retrophin Inc,0.01
+TDOC,TELADOC INC,0.01
+LCI,Lannett Co Inc,0.01
+NEO,NeoGenomics Inc,0.01
+HSTM,HealthStream Inc,0.01
+HRTX,Heron Therapeutics Inc,0.01
+KND,Kindred Healthcare Inc,0.01
+ACET,Aceto Corp,0.01
+AMPH,Amphastar Pharmaceuticals Inc,0.01
+CRY,CryoLife Inc,0.01
+VIVO,Meridian Bioscience Inc,0.01
+CORT,Corcept Therapeutics Inc,0.01
+VNDA,Vanda Pharmaceuticals Inc,0.01
+DPLO,Diplomat Pharmacy Inc,0.01
+AFAM,Almost Family Inc,0.01
+ATRC,AtriCure Inc,0.01
+ANGO,AngioDynamics Inc,0.01
+MGNX,MacroGenics Inc,0.01
+ANIP,ANI Pharmaceuticals Inc,0.01
+QDEL,Quidel Corp,0.01
+AMRI,Albany Molecular Research Inc,0.01
+GHDX,Genomic Health Inc,0.01
+ELGX,Endologix Inc,0.01
+VCRA,Vocera Communications Inc,0.01
+OSUR,OraSure Technologies Inc,0.01
+GNMK,GenMark Diagnostics Inc,0.01
+LDR,Landauer Inc,0.01
+PAHC,Phibro Animal Health Corp,0.01
+SCLN,SciClone Pharmaceuticals Inc,0.01
+UAM,Universal American Corp/NY,0.01
+ARAY,Accuray Inc,0.01
+ACRS,ACLARIS THERAPEU,0.01
+GKOS,Glaukos Corp,0.01
+PRSC,Providence Service Corp,0.01
+ENTA,Enanta Pharmaceuticals Inc,0.01
+ITCI,Intra-Cellular Therapies Inc,0.01
+INO,Inovio Pharmaceuticals Inc,0.01
+GTS,Triple-S Management Corp,0.01
+CSU,Capital Senior Living Corp,0.01
+IMMU,Immunomedics Inc,0.01
+ACHN,Achillion Pharmaceuticals Inc,0.01
+EVH,Evolent Health Inc,0.01
+EPZM,Epizyme Inc,0.01
+CRVL,CorVel Corp,0.01
+PACB,Pacific Biosciences of California Inc,0.01
+CERS,Cerus Corp,0.01
+RVNC,Revance Therapeutics Inc,0.01
+PTCT,PTC Therapeutics Inc,0.01
+KERX,Keryx Biopharmaceuticals Inc,0.01
+OMER,Omeros Corp,0.01
+MACK,Merrimack Pharmaceuticals Inc,0.01
+FLXN,Flexion Therapeutics Inc,0.01
+ARNA,Arena Pharmaceuticals Inc,0.01
+RGNX,REGENXBIO INC,0.01
+BCRX,BioCryst Pharmaceuticals Inc,0.01
+SGRY,SURGERY PARTNERS,0.01
+ONVO,Organovo Holdings Inc,0.01
+NVAX,Novavax Inc,0.01
+PDLI,PDL BioPharma Inc,0.01
+VSAR,Versartis Inc,0.01
+IVC,Invacare Corp,0.01
+CLCD,CoLucid Pharmaceuticals Inc,0.01
+AIMT,Aimmune Therapeutics Inc,0.01
+ARDX,Ardelyx Inc,0.01
+GERN,Geron Corp,0.01
+SPPI,Spectrum Pharmaceuticals Inc,0.01
+CLDX,Celldex Therapeutics Inc,0.01
+GBT,GLOBAL BLOOD THE,0.01
+EDIT,EDITAS MEDICINE,0.01
+COLL,Collegium Pharmaceutical Inc,0.01
+AGEN,Agenus Inc,0.01
+AXON,Axovant Sciences Ltd,0.01
+OTIC,Otonomy Inc,0.01
+STAA,STAAR Surgical Co,0.01
+CLSD,CLEARSIDE BIOMED,0.0
+MNKD,MannKind Corp,0.0
+XBIT,XBiotech Inc,0.0
+CFMS,ConforMIS Inc,0.0
+CTMX,CYTOMX THERAPEUT,0.0
+GEN,Genesis Healthcare Inc,0.0
+MYOK,MYOKARDIA INC,0.0
+OMED,OncoMed Pharmaceuticals Inc,0.0
+FLDM,Fluidigm Corp,0.0
+ESPR,Esperion Therapeutics Inc,0.0
+NTLA,INTELLIA THERAPE,0.0
+DVAX,Dynavax Technologies Corp,0.0
+OCUL,Ocular Therapeutix Inc,0.0
+MCRB,Seres Therapeutics Inc,0.0
+CEMP,Cempra Inc,0.0
+NK,NantKwest Inc,0.0
+VYGR,VOYAGER THERAPEU,0.0
+DRNA,Dicerna Pharmaceuticals Inc,0.0
+CARA,Cara Therapeutics Inc,0.0
+XENT,Intersect ENT Inc,0.0
+RMTI,Rockwell Medical Inc,0.0
+ADXS,Advaxis Inc,0.0
+CIVI,Civitas Solutions Inc,0.0
+NVCR,NOVOCURE LTD,0.0
+FMI,Foundation Medicine Inc,0.0
+NLNK,NewLink Genetics Corp,0.0
+ADRO,Aduro Biotech Inc,0.0
+TLGT,TELIGENT INC,0.0
+QHC,QUORUM HEALTH,0.0
+NERV,Minerva Neurosciences Inc,0.0
+SCMP,Sucampo Pharmaceuticals Inc,0.0
+PETX,Aratana Therapeutics Inc,0.0
+SRNE,Sorrento Therapeutics Inc,0.0
+CPSI,Computer Programs & Systems Inc,0.0
+TRVN,Trevena Inc,0.0
+ARA,AMERICAN RENAL A,0.0
+SGMO,Sangamo BioSciences Inc,0.0
+ATRA,Atara Biotherapeutics Inc,0.0
+CMRX,Chimerix Inc,0.0
+KPTI,Karyopharm Therapeutics Inc,0.0
+CRBP,Corbus Pharmaceuticals Holdings Inc,0.0
+INSY,Insys Therapeutics Inc,0.0
+BLCM,Bellicum Pharmaceuticals Inc,0.0
+NTRA,Natera Inc,0.0
+TGTX,TG Therapeutics Inc,0.0
+IMGN,ImmunoGen Inc,0.0
+WVE,WAVE LIFE SCIENC,0.0
+CRVS,CORVUS PHARMACEU,0.0
+ARWR,Arrowhead Research Corp,0.0
+ADPT,Adeptus Health Inc,0.0
+OSIR,Osiris Therapeutics Inc,0.0
+ABUS,ARBUTUS BIOPHARM,0.0
+BDSI,BioDelivery Sciences International Inc,0.0
+INFI,Infinity Pharmaceuticals Inc,0.0
+ZFGN,Zafgen Inc,0.0
+ADVM,ADVERUM BIOTECHN,0.0
+CSLT,Castlight Health Inc,0.0
+AAC,AAC Holdings Inc,0.0
+IMDZ,Immune Design Corp,0.0
+SYRS,SYROS PHARMACEUT,0.0
+OVAS,OvaScience Inc,0.0
+TNDM,Tandem Diabetes Care Inc,0.0
+RGLS,Regulus Therapeutics Inc,0.0
+TTPH,Tetraphase Pharmaceuticals Inc,0.0
+OPHT,Ophthotech Corp,0.0

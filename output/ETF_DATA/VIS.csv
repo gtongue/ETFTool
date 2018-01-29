@@ -1,0 +1,346 @@
+VIS,3.94E9
+GE,General Electric Co,10.17
+MMM,3M Co,4.04
+BA,Boeing Co,3.7
+UNP,Union Pacific Corp,3.39
+UTX,United Technologies Corp,3.33
+HON,Honeywell International Inc,3.27
+UPS,United Parcel Service Inc,2.88
+LMT,Lockheed Martin Corp,2.53
+CAT,Caterpillar Inc,2.13
+FDX,FedEx Corp,1.82
+GD,General Dynamics Corp,1.79
+CSX,CSX Corp,1.67
+RTN,Raytheon Co,1.62
+JCI,Johnson Controls Inc,1.57
+ITW,Illinois Tool Works Inc,1.55
+NOC,Northrop Grumman Corp,1.48
+EMR,Emerson Electric Co,1.44
+DAL,Delta Air Lines Inc,1.35
+NSC,Norfolk Southern Corp,1.31
+LUV,Southwest Airlines Co,1.24
+ETN,Eaton Corp PLC,1.23
+WM,Waste Management Inc,1.17
+DE,Deere & Co,1.09
+PCAR,PACCAR Inc,0.9
+CMI,Cummins Inc,0.9
+AAL,American Airlines Group Inc,0.89
+UAL,United Continental Holdings Inc,0.86
+IR,Ingersoll-Rand PLC,0.78
+PH,Parker-Hannifin Corp,0.75
+ROP,Roper Technologies Inc,0.74
+ROK,Rockwell Automation Inc,0.73
+SWK,Stanley Black & Decker Inc,0.71
+FTV,FORTIVE CORP,0.65
+NLSN,Nielsen NV,0.55
+GWW,WW Grainger Inc,0.55
+FAST,Fastenal Co,0.54
+INFO,IHS MARKIT LTD,0.54
+WCN,Waste Connections Inc,0.53
+EFX,Equifax Inc,0.53
+RSG,Republic Services Inc,0.52
+VRSK,Verisk Analytics Inc,0.5
+TXT,Textron Inc,0.48
+LLL,L-3 Communications Holdings Inc,0.46
+DOV,Dover Corp,0.46
+AME,AMETEK Inc,0.45
+COL,Rockwell Collins Inc,0.45
+ALK,Alaska Air Group Inc,0.44
+TDG,TransDigm Group Inc,0.44
+URI,United Rentals Inc,0.41
+MAS,Masco Corp,0.41
+CHRW,CH Robinson Worldwide Inc,0.41
+SNA,Snap-on Inc,0.4
+PNR,Pentair PLC,0.38
+ARNC,ARCONIC INC,0.38
+CTAS,Cintas Corp,0.37
+EXPD,Expeditors International of Washington Inc,0.36
+KSU,Kansas City Southern,0.35
+AYI,Acuity Brands Inc,0.34
+HII,Huntington Ingalls Industries Inc,0.34
+JBHT,JB Hunt Transport Services Inc,0.34
+XYL,Xylem Inc/NY,0.33
+HDS,HD Supply Holdings Inc,0.32
+FBHS,Fortune Brands Home & Security Inc,0.32
+WAB,Wabtec Corp/DE,0.29
+SPR,Spirit AeroSystems Holdings Inc,0.29
+FLR,Fluor Corp,0.29
+MIDD,Middleby Corp,0.29
+AOS,AO Smith Corp,0.27
+ST,Sensata Technologies Holding NV,0.27
+JEC,Jacobs Engineering Group Inc,0.27
+CSL,Carlisle Cos Inc,0.26
+IEX,IDEX Corp,0.26
+MAN,ManpowerGroup Inc,0.25
+SRCL,Stericycle Inc,0.25
+TTC,Toro Co,0.24
+HUBB,HUBBELL INC,0.24
+FLS,Flowserve Corp,0.24
+JBLU,JetBlue Airways Corp,0.24
+OC,Owens Corning,0.24
+ALLE,Allegion PLC,0.24
+KAR,KAR Auction Services Inc,0.24
+BEAV,B/E Aerospace Inc,0.23
+LII,Lennox International Inc,0.23
+RHI,Robert Half International Inc,0.23
+NDSN,Nordson Corp,0.22
+MIC,Macquarie Infrastructure Corp,0.22
+WBC,WABCO Holdings Inc,0.22
+ACM,AECOM,0.21
+CPRT,Copart Inc,0.21
+ODFL,Old Dominion Freight Line Inc,0.21
+PWR,Quanta Services Inc,0.2
+DCI,Donaldson Co Inc,0.2
+OSK,Oshkosh Corp,0.19
+OA,Orbital ATK Inc,0.19
+LECO,Lincoln Electric Holdings Inc,0.19
+GGG,Graco Inc,0.19
+ALSN,Allison Transmission Holdings Inc,0.19
+XPO,XPO Logistics Inc,0.18
+HXL,Hexcel Corp,0.18
+GWR,Genesee & Wyoming Inc,0.17
+MSM,MSC Industrial Direct Co Inc,0.17
+DNB,Dun & Bradstreet Corp,0.17
+EME,EMCOR Group Inc,0.16
+TRN,Trinity Industries Inc,0.16
+R,Ryder System Inc,0.15
+CW,Curtiss-Wright Corp,0.15
+AGCO,AGCO Corp,0.15
+TDY,Teledyne Technologies Inc,0.15
+CLC,CLARCOR Inc,0.15
+WSO,Watsco Inc,0.15
+BWXT,BWX Technologies Inc,0.14
+WWD,Woodward Inc,0.14
+SAVE,Spirit Airlines Inc,0.14
+ITT,ITT Corp,0.14
+CFX,Colfax Corp,0.13
+LSTR,Landstar System Inc,0.13
+DLX,Deluxe Corp,0.13
+AL,Air Lease Corp,0.13
+ROL,Rollins Inc,0.13
+KEX,Kirby Corp,0.13
+TEX,Terex Corp,0.13
+CBI,Chicago Bridge & Iron Co NV,0.13
+ENS,EnerSys,0.12
+CR,Crane Co,0.12
+VMI,Valmont Industries Inc,0.12
+RBC,Regal Beloit Corp,0.12
+TKR,Timken Co,0.11
+CAR,Avis Budget Group Inc,0.11
+CLH,Clean Harbors Inc,0.11
+WCC,WESCO International Inc,0.11
+PBI,Pitney Bowes Inc,0.11
+TRU,TRANSUNION,0.11
+USG,USG Corp,0.11
+HCSG,Healthcare Services Group Inc,0.11
+KMT,Kennametal Inc,0.1
+JOY,Joy Global Inc,0.1
+WAGE,WageWorks Inc,0.1
+GNRC,Generac Holdings Inc,0.1
+UHAL,AMERCO,0.09
+KLXI,KLX Inc,0.09
+HA,Hawaiian Holdings Inc,0.09
+DY,Dycom Industries Inc,0.09
+JBT,John Bean Technologies Corp,0.09
+UNVR,Univar Inc,0.09
+TTEK,Tetra Tech Inc,0.09
+MFS,MANITOWOC FOOD,0.09
+CEB,CEB Inc,0.09
+B,Barnes Group Inc,0.09
+MTZ,MasTec Inc,0.09
+KBR,KBR Inc,0.09
+ESL,Esterline Technologies Corp,0.09
+HI,Hillenbrand Inc,0.08
+ASGN,On Assignment Inc,0.08
+DNOW,NOW Inc,0.08
+MSA,MSA Safety Inc,0.08
+ALGT,Allegiant Travel Co,0.08
+RXN,Rexnord Corp,0.08
+AIT,Applied Industrial Technologies Inc,0.08
+HNI,HNI Corp,0.08
+GVA,Granite Construction Inc,0.08
+BECN,Beacon Roofing Supply Inc,0.08
+GATX,GATX CORP,0.08
+ROLL,RBC Bearings Inc,0.08
+MLI,Mueller Industries Inc,0.08
+MWA,Mueller Water Products Inc,0.08
+MATW,Matthews International Corp,0.08
+ABM,ABM Industries Inc,0.08
+KNX,Knight Transportation Inc,0.08
+MOG.A,Moog Inc,0.08
+UFPI,Universal Forest Products Inc,0.07
+TREX,Trex Co Inc,0.07
+BCO,Brink's Co,0.07
+MRC,MRC Global Inc,0.07
+UNF,UniFirst Corp/MA,0.07
+SWFT,Swift Transportation Co,0.07
+GK,G&K Services Inc,0.07
+CVA,Covanta Holding Corp,0.07
+MLHR,Herman Miller Inc,0.07
+ABCO,Advisory Board Co,0.07
+SKYW,SkyWest Inc,0.07
+SSD,Simpson Manufacturing Co Inc,0.06
+FCN,FTI Consulting Inc,0.06
+DGI,DigitalGlobe Inc,0.06
+WTS,Watts Water Technologies Inc,0.06
+DOOR,Masonite International Corp,0.06
+BRC,Brady Corp,0.06
+AWI,Armstrong World Industries Inc,0.06
+APOG,Apogee Enterprises Inc,0.06
+MRCY,Mercury Systems Inc,0.06
+FELE,Franklin Electric Co Inc,0.06
+HEI,HEICO Corp,0.05
+ATU,Actuant Corp,0.05
+AZZ,AZZ Inc,0.05
+MATX,Matson Inc,0.05
+KFY,Korn/Ferry International,0.05
+HTZ,Hertz Global Holdings Inc,0.05
+EXPO,Exponent Inc,0.05
+HUBG,Hub Group Inc,0.05
+ESE,ESCO Technologies Inc,0.05
+SCS,Steelcase Inc,0.05
+FWRD,Forward Air Corp,0.05
+NPO,EnPro Industries Inc,0.05
+FLOW,Flow International Corp,0.05
+MINI,Mobile Mini Inc,0.05
+AAON,AAON Inc,0.05
+AIN,Albany International Corp,0.05
+ACCO,ACCO Brands Corp,0.05
+AYR,Aircastle Ltd,0.05
+PRLB,Proto Labs Inc,0.05
+ROCK,Gibraltar Industries Inc,0.05
+AAWW,Atlas Air Worldwide Holdings Inc,0.05
+TASR,TASER International Inc,0.05
+WERN,Werner Enterprises Inc,0.05
+ASTE,Astec Industries Inc,0.05
+WNC,Wabash National Corp,0.04
+SXI,Standex International Corp,0.04
+ECOL,US Ecology Inc,0.04
+WSTC,West Corp,0.04
+CUB,Cubic Corp,0.04
+HSC,Harsco Corp,0.04
+TNET,TriNet Group Inc,0.04
+BMCH,BMC STOCK HOLDIN,0.04
+NSP,Insperity Inc,0.04
+PATK,Patrick Industries Inc,0.04
+TBI,TrueBlue Inc,0.04
+LDL,Lydall Inc,0.04
+SPXC,SPX CORP,0.04
+AIR,AAR Corp,0.04
+LABL,Multi-Color Corp,0.04
+AMWD,American Woodmark Corp,0.04
+KNL,Knoll Inc,0.04
+FIX,Comfort Systems USA Inc,0.04
+TGI,Triumph Group Inc,0.04
+GBX,Greenbrier Cos Inc,0.04
+NAV,Navistar International Corp,0.04
+KAMN,Kaman Corp,0.04
+MTOR,Meritor Inc,0.04
+SAIA,Saia Inc,0.04
+HRI,HERC HOLDINGS IN,0.04
+RRD,RR Donnelley & Sons Co,0.04
+GTLS,Chart Industries Inc,0.04
+NCI,Navigant Consulting Inc,0.04
+TPC,Tutor Perini Corp,0.04
+TILE,Interface Inc,0.04
+TNC,Tennant Co,0.04
+PRIM,Primoris Services Corp,0.03
+AJRD,Aerojet Rocketdyne Holdings Inc,0.03
+BGC,General Cable Corp,0.03
+TRTN,TRITON INTERNATI,0.03
+AGX,Argan Inc,0.03
+WMS,Advanced Drainage Systems Inc,0.03
+HURN,Huron Consulting Group Inc,0.03
+TRS,TriMas Corp,0.03
+AIMC,Altra Industrial Motion Corp,0.03
+CBPX,Continental Building Products Inc,0.03
+BLDR,Builders FirstSource Inc,0.03
+HTLD,Heartland Express Inc,0.03
+FSS,Federal Signal Corp,0.03
+TISI,Team Inc,0.03
+ICFI,ICF International Inc,0.03
+BGG,Briggs & Stratton Corp,0.03
+WAIR,Wesco Aircraft Holdings Inc,0.03
+SNHY,Sun Hydraulics Corp,0.03
+VVI,Viad Corp,0.03
+RAVN,Raven Industries Inc,0.03
+MTW,Manitowoc Co Inc,0.03
+CIR,CIRCOR International Inc,0.03
+MGRC,McGrath RentCorp,0.03
+WIRE,Encore Wire Corp,0.03
+HEES,H&E Equipment Services Inc,0.03
+SITE,SITEONE LANDSCAP,0.03
+AEGN,Aegion Corp,0.03
+LNN,Lindsay Corp,0.03
+ATSG,Air Transport Services Group Inc,0.03
+ESND,Essendant Inc,0.03
+PLOW,Douglas Dynamics Inc,0.02
+ARCB,ArcBest Corp,0.02
+GFF,Griffon Corp,0.02
+BW,Babcock & Wilcox Enterprises Inc,0.02
+QUAD,Quad/Graphics Inc,0.02
+ALG,Alamo Group Inc,0.02
+LKSD,LSC COMMUNICATIO,0.02
+BRSS,Global Brass & Copper Holdings Inc,0.02
+KELYA,Kelly Services Inc,0.02
+THR,Thermon Group Holdings Inc,0.02
+KAI,Kadant Inc,0.02
+IIIN,Insteel Industries Inc,0.02
+CBZ,CBIZ Inc,0.02
+GRC,Gorman-Rupp Co,0.02
+ECHO,Echo Global Logistics Inc,0.02
+TWI,Titan International Inc,0.02
+MYRG,MYR Group Inc,0.02
+NX,Quanex Building Products Corp,0.02
+DXPE,DXP Enterprises Inc,0.02
+EGL,Engility Holdings Inc,0.02
+KFRC,Kforce Inc,0.02
+CSWI,CSW INDUSTRI INC,0.02
+ATKR,ATKORE INTERNATI,0.02
+NCS,NCI Building Systems Inc,0.02
+PGTI,PGT Inc,0.02
+AVAV,Aerovironment Inc,0.02
+MRTN,Marten Transport Ltd,0.02
+RPXC,RPX Corp,0.02
+HY,Hyster-Yale Materials Handling Inc,0.02
+CMCO,Columbus McKinnon Corp/NY,0.02
+KBAL,Kimball International Inc,0.02
+VRTV,Veritiv Corp,0.02
+NPK,National Presto Industries Inc,0.02
+KTOS,Kratos Defense & Security Solutions Inc,0.02
+NNBR,NN Inc,0.01
+SP,SP Plus Corp,0.01
+RECN,Resources Connection Inc,0.01
+KEYW,KEYW Holding Corp,0.01
+EBF,Ennis Inc,0.01
+YRCW,YRC Worldwide Inc,0.01
+AFI,ARMSTRONG FL,0.01
+INWK,InnerWorkings Inc,0.01
+MG,Mistras Group Inc,0.01
+PGEM,Ply Gem Holdings Inc,0.01
+CVEO,Civeo Corp,0.01
+ARII,American Railcar Industries Inc,0.01
+VICR,Vicor Corp,0.01
+MCRN,MILACRON HOLDING,0.01
+CAI,CAI INTERNATIONA,0.01
+ACTG,Acacia Research Corp,0.01
+RUN,Sunrun Inc,0.01
+NVEE,NV5 Holdings Inc,0.01
+GPX,GP Strategies Corp,0.01
+HSII,Heidrick & Struggles International Inc,0.01
+CECE,CECO Environmental Corp,0.01
+PKOH,Park-Ohio Holdings Corp,0.01
+POWL,Powell Industries Inc,0.01
+ERII,Energy Recovery Inc,0.01
+RUSHB,Rush Enterprises Inc,0.0
+ATROB,Astronics Corp,0.0
+FCEL,FuelCell Energy Inc,0.0
+BLBD,Blue Bird Corp,0.0
+AMOT,Allied Motion Technologies Inc,0.0
+PLUG,Plug Power Inc,0.0
+ARC,ARC Document Solutions Inc,0.0
+CGI,Celadon Group Inc,0.0
+RRTS,Roadrunner Transportation Systems Inc,0.0
+NXEO,NEXEO SOLUTIONS,0.0
+GMS,GMS INC,0.0
+PSIX,Power Solutions International Inc,0.0

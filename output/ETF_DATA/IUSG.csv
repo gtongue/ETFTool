@@ -1,0 +1,561 @@
+IUSG,3.54999987E9
+AAPL,Apple Inc,6.25
+MSFT,Microsoft Corp,4.2
+AMZN,Amazon.com Inc,2.81
+FB,Facebook Inc,2.73
+GOOG,Google Inc,2.1
+JNJ,Johnson & Johnson,1.78
+HD,Home Depot Inc,1.5
+CMCSA,Comcast Corp,1.5
+V,Visa Inc,1.4
+UNH,UnitedHealth Group Inc,1.36
+MO,Altria Group Inc,1.23
+GE,General Electric Co,1.03
+PG,Procter & Gamble Co,1.0
+PFE,Pfizer Inc,0.98
+MRK,Merck KGaA,0.92
+VZ,Verizon Communications Inc,0.9
+ABBV,AbbVie Inc,0.9
+MA,MasterCard Inc,0.89
+CELG,Celgene Corp,0.82
+DIS,Walt Disney Co,0.8
+PM,Philip Morris International Inc,0.8
+GILD,Gilead Sciences Inc,0.75
+AVGO,Avago Technologies Ltd,0.74
+PEP,PepsiCo Inc,0.74
+PCLN,Priceline Group Inc,0.73
+IBM,International Business Machines Corp,0.72
+QCOM,QUALCOMM Inc,0.72
+KO,Coca-Cola Co,0.69
+TXN,Texas Instruments Inc,0.68
+INTC,Intel Corp,0.66
+SBUX,Starbucks Corp,0.66
+MMM,3M Co,0.65
+ACN,Accenture PLC,0.64
+TWX,Time Warner Inc,0.63
+ORCL,Oracle Corp,0.62
+AMGN,Amgen Inc,0.62
+UPS,United Parcel Service Inc,0.61
+CHTR,Charter Communications Inc,0.58
+BA,Boeing Co,0.57
+LMT,Lockheed Martin Corp,0.56
+MCD,McDonald's Corp,0.55
+BIIB,Biogen Inc,0.53
+NFLX,Netflix Inc,0.52
+ADBE,Adobe Systems Inc,0.5
+UNP,Union Pacific Corp,0.5
+HON,Honeywell International Inc,0.47
+NVDA,NVIDIA Corp,0.46
+GD,General Dynamics Corp,0.45
+CRM,salesforce.com inc,0.44
+BMY,Bristol-Myers Squibb Co,0.44
+TJX,TJX Cos Inc,0.43
+SCHW,Charles Schwab Corp,0.43
+RAI,Reynolds American Inc,0.42
+SLB,Schlumberger Ltd,0.41
+USB,US Bancorp,0.41
+AMT,American Tower Corp,0.4
+PYPL,PayPal Holdings Inc,0.39
+FDX,FedEx Corp,0.39
+ADP,Automatic Data Processing Inc,0.39
+AET,Aetna Inc,0.39
+LOW,Lowe's Cos Inc,0.38
+NKE,NIKE Inc,0.36
+NOC,Northrop Grumman Corp,0.35
+ITW,Illinois Tool Works Inc,0.35
+AMAT,Applied Materials Inc,0.35
+SYK,Stryker Corp,0.34
+BDX,Becton Dickinson and Co,0.32
+TMO,Thermo Fisher Scientific Inc,0.32
+MMC,Marsh & McLennan Cos Inc,0.31
+CL,Colgate-Palmolive Co,0.3
+LLY,Eli Lilly & Co,0.3
+ICE,Intercontinental Exchange Inc,0.3
+DD,EI du Pont de Nemours & Co,0.29
+SPG,Simon Property Group Inc,0.29
+SPGI,S&P GLOBAL INC,0.28
+ATVI,Activision Blizzard Inc,0.28
+BSX,Boston Scientific Corp,0.28
+LUV,Southwest Airlines Co,0.27
+MON,Monsanto Co,0.27
+HUM,Humana Inc,0.27
+PXD,Pioneer Natural Resources Co,0.26
+AON,Aon PLC,0.26
+RTN,Raytheon Co,0.25
+INTU,Intuit Inc,0.25
+ADI,Analog Devices Inc,0.25
+NEE,NextEra Energy Inc,0.25
+REGN,Regeneron Pharmaceuticals Inc,0.25
+WM,Waste Management Inc,0.25
+ISRG,Intuitive Surgical Inc,0.24
+AXP,American Express Co,0.24
+EOG,EOG Resources Inc,0.24
+STZ,Constellation Brands Inc,0.24
+CAT,Caterpillar Inc,0.23
+DHR,Danaher Corp,0.23
+MAR,Marriott International Inc/MD,0.23
+CSX,CSX Corp,0.23
+DFS,Discover Financial Services,0.23
+EA,Electronic Arts Inc,0.23
+EQIX,Equinix Inc,0.22
+ALXN,Alexion Pharmaceuticals Inc,0.22
+FIS,Fidelity National Information Services Inc,0.22
+ZTS,Zoetis Inc,0.22
+ROST,Ross Stores Inc,0.22
+PLD,Prologis Inc,0.22
+INCY,Incyte Corp,0.22
+CME,CME Group Inc/IL,0.22
+HAL,Halliburton Co,0.21
+GLW,Corning Inc,0.21
+ORLY,O'Reilly Automotive Inc,0.21
+FISV,Fiserv Inc,0.21
+CBS,CBS Corp,0.21
+AVB,AvalonBay Communities Inc,0.21
+CTSH,Cognizant Technology Solutions Corp,0.21
+KMB,Kimberly-Clark Corp,0.2
+HCN,WELLTOWER INC,0.2
+CMI,Cummins Inc,0.19
+BLK,BlackRock Inc,0.19
+D,Dominion Resources Inc/VA,0.19
+YUM,Yum! Brands Inc,0.18
+APH,Amphenol Corp,0.18
+PSA,Public Storage,0.18
+OXY,Occidental Petroleum Corp,0.17
+CCI,Crown Castle International Corp,0.17
+IR,Ingersoll-Rand PLC,0.17
+AZO,AutoZone Inc,0.17
+LRCX,Lam Research Corp,0.16
+PAYX,Paychex Inc,0.16
+EW,Edwards Lifesciences Corp,0.16
+ROK,Rockwell Automation Inc,0.16
+GIS,General Mills Inc,0.16
+UAL,United Continental Holdings Inc,0.16
+PX,Praxair Inc,0.15
+MCO,Moody's Corp,0.15
+DG,Dollar General Corp,0.15
+BCR,CR Bard Inc,0.15
+SWKS,Skyworks Solutions Inc,0.15
+FTV,FORTIVE CORP,0.15
+ECL,Ecolab Inc,0.15
+NEM,Nemetschek AG,0.15
+EMR,Emerson Electric Co,0.15
+APC,Anadarko Petroleum Corp,0.14
+DLTR,Dollar Tree Inc,0.14
+SHW,Sherwin-Williams Co,0.14
+APD,Air Products & Chemicals Inc,0.14
+ULTA,Ulta Salon Cosmetics & Fragrance Inc,0.14
+ILMN,Illumina Inc,0.14
+CERN,Cerner Corp,0.14
+DLR,Digital Realty Trust Inc,0.13
+EFX,Equifax Inc,0.13
+MCHP,Microchip Technology Inc,0.13
+DE,Deere & Co,0.13
+VMC,Vulcan Materials Co,0.13
+EQR,Equity Residential,0.13
+EXPE,Expedia Inc,0.12
+ZBH,Zimmer Biomet Holdings Inc,0.12
+HSY,Hershey Co,0.12
+RSG,Republic Services Inc,0.12
+RHT,Red Hat Inc,0.12
+FAST,Fastenal Co,0.12
+PH,Parker-Hannifin Corp,0.12
+KLAC,KLA-Tencor Corp,0.12
+PPG,PPG Industries Inc,0.12
+OMC,Omnicom Group Inc,0.12
+NWL,Newell Rubbermaid Inc,0.12
+MSI,Motorola Solutions Inc,0.11
+HRS,Harris Corp,0.11
+SYY,Sysco Corp,0.11
+GGP,GGP INC,0.11
+AWK,American Water Works Co Inc,0.11
+TEL,TE Connectivity Ltd,0.11
+IDXX,IDEXX Laboratories Inc,0.11
+HST,Host Hotels & Resorts Inc,0.11
+GWW,WW Grainger Inc,0.11
+MLM,Martin Marietta Materials Inc,0.11
+BXP,Boston Properties Inc,0.11
+VRTX,Vertex Pharmaceuticals Inc,0.11
+EBAY,eBay Inc,0.11
+CTXS,Citrix Systems Inc,0.1
+HCA,HCA Holdings Inc,0.1
+MTD,Mettler-Toledo International Inc,0.1
+PCAR,PACCAR Inc,0.1
+VRSK,Verisk Analytics Inc,0.1
+NTRS,Northern Trust Corp,0.1
+APA,Apache Corp,0.1
+VTR,Ventas Inc,0.1
+NUE,Nucor Corp,0.1
+GPN,Global Payments Inc,0.1
+ALB,Albemarle Corp,0.1
+DVN,Devon Energy Corp,0.1
+ROP,Roper Technologies Inc,0.1
+TDG,TransDigm Group Inc,0.09
+A,Agilent Technologies Inc,0.09
+ADSK,Autodesk Inc,0.09
+MNST,Monster Beverage Corp,0.09
+TROW,T Rowe Price Group Inc,0.09
+AAP,Advance Auto Parts Inc,0.09
+AKAM,Akamai Technologies Inc,0.09
+HAS,Hasbro Inc,0.09
+HOG,Harley-Davidson Inc,0.09
+EL,Estee Lauder Cos Inc,0.09
+SNPS,Synopsys Inc,0.08
+WMB,Williams Cos Inc,0.08
+BHI,Baker Hughes Inc,0.08
+AMD,Advanced Micro Devices Inc,0.08
+CXO,Concho Resources Inc,0.08
+DPS,Dr Pepper Snapple Group Inc,0.08
+URI,United Rentals Inc,0.08
+FCX,Freeport-McMoRan Inc,0.08
+CTAS,Cintas Corp,0.08
+K,Kellogg Co,0.08
+AMP,Ameriprise Financial Inc,0.08
+AJG,Arthur J Gallagher & Co,0.08
+WEC,WEC Energy Group Inc,0.08
+XLNX,Xilinx Inc,0.08
+CDK,CDK Global Inc,0.08
+KEY,KeyCorp,0.08
+KIM,Kimco Realty Corp,0.08
+ETFC,E*TRADE Financial Corp,0.08
+HII,Huntington Ingalls Industries Inc,0.08
+UDR,UDR Inc,0.08
+CLX,Clorox Co,0.08
+ARE,Alexandria Real Estate Equities Inc,0.08
+WWAV,Western Asset/Claymore Inflation-Linked Opportunities & Income Fund,0.08
+O,Realty Income Corp,0.08
+FFIV,F5 Networks Inc,0.08
+SWK,Stanley Black & Decker Inc,0.07
+LVLT,Level 3 Communications Inc,0.07
+SYMC,Symantec Corp,0.07
+EXR,Extra Space Storage Inc,0.07
+DRI,Darden Restaurants Inc,0.07
+MSCI,MSCI Inc,0.07
+LKQ,LKQ Corp,0.07
+IT,Gartner Inc,0.07
+AYI,Acuity Brands Inc,0.07
+DRE,Duke Realty Corp,0.07
+VNO,Vornado Realty Trust,0.07
+DPZ,Domino's Pizza Inc,0.07
+TSS,Total System Services Inc,0.07
+XYL,Xylem Inc/NY,0.07
+MJN,Mead Johnson Nutrition Co,0.07
+DGX,Quest Diagnostics Inc,0.07
+PKG,Packaging Corp of America,0.07
+VAR,Varian Medical Systems Inc,0.07
+ADS,Alliance Data Systems Corp,0.07
+CHD,Church & Dwight Co Inc,0.07
+WAT,Waters Corp,0.07
+RCL,Royal Caribbean Cruises Ltd,0.07
+JBHT,JB Hunt Transport Services Inc,0.06
+ALGN,Align Technology Inc,0.06
+WYNN,Wynn Resorts Ltd,0.06
+NLSN,NIELSEN HOLDINGS PLC,0.06
+DISH,DISH Network Corp,0.06
+BR,Broadridge Financial Solutions Inc,0.06
+ESS,Essex Property Trust Inc,0.06
+COL,Rockwell Collins Inc,0.06
+LH,Laboratory Corp of America Holdings,0.06
+OKE,ONEOK Inc,0.06
+VRSN,VeriSign Inc,0.06
+AOS,AO Smith Corp,0.06
+NVR,NVR Inc,0.06
+SNI,Scripps Networks Interactive Inc,0.06
+MKC,McCormick & Co Inc/MD,0.06
+WOOF,VCA Inc,0.06
+ALK,Alaska Air Group Inc,0.06
+JKHY,Jack Henry & Associates Inc,0.06
+NTAP,NetApp Inc,0.06
+REG,Regency Centers Corp,0.06
+MKTX,MarketAxess Holdings Inc,0.06
+FOX,Twenty-First Century Fox Inc,0.05
+HOLX,Hologic Inc,0.05
+MAA,Mid-America Apartment Communities Inc,0.05
+KRC,Kilroy Realty Corp,0.05
+CNP,CenterPoint Energy Inc,0.05
+CFG,Citizens Financial Group Inc,0.05
+IEX,IDEX Corp,0.05
+AIV,Apartment Investment & Management Co,0.05
+CSL,Carlisle Cos Inc,0.05
+MAS,Masco Corp,0.05
+CPB,Campbell Soup Co,0.05
+CGNX,Cognex Corp,0.05
+CMA,Comerica Inc,0.05
+MHK,Mohawk Industries Inc,0.05
+COO,Cooper Cos Inc,0.05
+FBHS,Fortune Brands Home & Security Inc,0.05
+LII,Lennox International Inc,0.05
+TTC,Toro Co,0.05
+NDSN,Nordson Corp,0.05
+RMD,ResMed Inc,0.05
+XEC,Cimarex Energy Co,0.05
+CDNS,Cadence Design Systems Inc,0.05
+CINF,Cincinnati Financial Corp,0.05
+WCG,WellCare Health Plans Inc,0.05
+CMG.TO,Computer Modelling Group Ltd,0.05
+WU,Western Union Co,0.05
+EXPD,Expeditors International of Washington Inc,0.05
+GNTX,Gentex Corp/MI,0.05
+NBL,Noble Energy Inc,0.05
+LAMR,Lamar Advertising Co,0.05
+FL,Foot Locker Inc,0.05
+CPRT,Copart Inc,0.05
+ODFL,Old Dominion Freight Line Inc,0.05
+EQT,EQT Corp,0.05
+KORS,Michael Kors Holdings Ltd,0.05
+JNPR,Juniper Networks Inc,0.05
+GRMN,Garmin Ltd,0.05
+LLL,L3 TECHNOLOGIES INC,0.05
+WST,West Pharmaceutical Services Inc,0.05
+SIVB,SVB Financial Group,0.05
+MSCC,Microsemi Corp,0.05
+FRT,Federal Realty Investment Trust,0.04
+WYN,Wyndham Worldwide Corp,0.04
+STLD,Steel Dynamics Inc,0.04
+IFF,International Flavors & Fragrances Inc,0.04
+LPT,Liberty Property Trust,0.04
+LB,L Brands Inc,0.04
+PWR,Quanta Services Inc,0.04
+ULTI,Ultimate Software Group Inc,0.04
+ANSS,ANSYS Inc,0.04
+VAL,Valspar Corp,0.04
+DEI,Douglas Emmett Inc,0.04
+BIVV,BIOVERATIV INC,0.04
+COH,Coach Inc,0.04
+SBNY,Signature Bank/New York NY,0.04
+CHRW,CH Robinson Worldwide Inc,0.04
+POST,Post Holdings Inc,0.04
+RJF,Raymond James Financial Inc,0.04
+LECO,Lincoln Electric Holdings Inc,0.04
+KMX,CarMax Inc,0.04
+TSCO,Tractor Supply Co,0.04
+MDU,MDU Resources Group Inc,0.04
+IPG,Interpublic Group of Cos Inc,0.04
+FTNT,Fortinet Inc,0.04
+SLM,SLM Corp,0.04
+NCR,NCR Corp,0.04
+FMC,FMC Corp,0.04
+CSC,Computer Sciences Corp,0.04
+GGG,Graco Inc,0.04
+SNA,Snap-on Inc,0.04
+FDS,FactSet Research Systems Inc,0.04
+LOGM,LogMeIn Inc,0.04
+BF.B,Brown-Forman Corp,0.04
+PNRA,Panera Bread Co,0.04
+TYL,Tyler Technologies Inc,0.04
+TRMB,Trimble Navigation Ltd,0.04
+EWBC,East West Bancorp Inc,0.04
+CBSH,Commerce Bancshares Inc/MO,0.04
+TFX,Teleflex Inc,0.04
+BRO,Brown & Brown Inc,0.04
+DNKN,Dunkin' Brands Group Inc,0.04
+TIF,Tiffany & Co,0.04
+MAT,Mattel Inc,0.04
+COG,Cabot Oil & Gas Corp,0.04
+ABMD,ABIOMED Inc,0.04
+UHS,Universal Health Services Inc,0.04
+BBY,Best Buy Co Inc,0.04
+OZRK,Bank of the Ozarks Inc,0.04
+POOL,Pool Corp,0.04
+IRM,Iron Mountain Inc,0.04
+CPT,Camden Property Trust,0.03
+WWD,Woodward Inc,0.03
+CR,Crane Co,0.03
+COTY,Coty Inc,0.03
+HLS,HealthSouth Corp,0.03
+NNN,National Retail Properties Inc,0.03
+NUVA,NuVasive Inc,0.03
+NDAQ,NASDAQ OMX Group Inc,0.03
+ACC,American Campus Communities Inc,0.03
+UNIT,UNITI GROUP INC,0.03
+SKX,Skechers U.S.A. Inc,0.03
+SCI,Service Corp International/US,0.03
+TER,Teradyne Inc,0.03
+DISCA,Discovery Communications Inc,0.03
+CBOE,CBOE Holdings Inc,0.03
+CBG,CBRE Group Inc,0.03
+ZBRA,Zebra Technologies Corp,0.03
+EXP,Eagle Materials Inc,0.03
+WR,Westar Energy Inc,0.03
+SEE,Sealed Air Corp,0.03
+NFX,Newfield Exploration Co,0.03
+THO,Thor Industries Inc,0.03
+MSM,MSC Industrial Direct Co Inc,0.03
+UTHR,United Therapeutics Corp,0.03
+PTC,PTC Inc,0.03
+RPM,RPM International Inc,0.03
+ALLE,Allegion PLC,0.03
+FHN,First Horizon National Corp,0.03
+MUR,Murphy Oil Corp,0.03
+CRI,Carter's Inc,0.03
+WAB,Wabtec Corp/DE,0.03
+IPGP,IPG Photonics Corp,0.03
+DCT,DCT Industrial Trust Inc,0.03
+LNT,Alliant Energy Corp,0.03
+RGLD,Royal Gold Inc,0.03
+CW,Curtiss-Wright Corp,0.03
+DKS,Dick's Sporting Goods Inc,0.03
+SEIC,SEI Investments Co,0.03
+BEAV,B/E Aerospace Inc,0.03
+MENT,Mentor Graphics Corp,0.03
+DCI,Donaldson Co Inc,0.03
+SMG,Scotts Miracle-Gro Co,0.03
+INGR,Ingredion Inc,0.03
+JCOM,j2 Global Inc,0.03
+WEX,WEX Inc,0.03
+LEG,Leggett & Platt Inc,0.03
+FICO,Fair Isaac Corp,0.03
+HBI,Hanesbrands Inc,0.03
+MD,MEDNAX Inc,0.03
+TECH,Bio-Techne Corp,0.03
+DNB,Dun & Bradstreet Corp,0.03
+SAIC,Science Applications International Corp,0.03
+MMS,MAXIMUS Inc,0.03
+WRI,Weingarten Realty Investors,0.03
+SWX,Southwest Gas Corp,0.03
+HUBB,HUBBELL INC,0.03
+KEYS,Keysight Technologies Inc,0.03
+AVY,Avery Dennison Corp,0.03
+LW,LAMB WESTON HOLDINGS INC,0.02
+UAA,Under Armour Inc,0.02
+FLIR,FLIR Systems Inc,0.02
+CRUS,Cirrus Logic Inc,0.02
+ROL,Rollins Inc,0.02
+LFUS,Littelfuse Inc,0.02
+LSTR,Landstar System Inc,0.02
+CLGX,China GengSheng Minerals Inc,0.02
+MPWR,Monolithic Power Systems Inc,0.02
+CC,Chemours Co,0.02
+EV,Eaton Vance Corp,0.02
+BRCD,Brocade Communications Systems Inc,0.02
+X,United States Steel Corp,0.02
+UA,UNDER ARMOUR INC CLASS C,0.02
+ENS,EnerSys,0.02
+IDTI,Integrated Device Technology Inc,0.02
+WBS,Webster Financial Corp,0.02
+TDY,Teledyne Technologies Inc,0.02
+JACK,Jack in the Box Inc,0.02
+FR,First Industrial Realty Trust Inc,0.02
+CABO,Cable One Inc,0.02
+KATE,Kate Spade & Co,0.02
+EVHC,ENVISION HEALTHCARE CORP,0.02
+SLAB,Silicon Laboratories Inc,0.02
+WAFD,Washington Federal Inc,0.02
+HIW,Highwoods Properties Inc,0.02
+WTR,Aqua America Inc,0.02
+IDCC,InterDigital Inc/PA,0.02
+CAR,Avis Budget Group Inc,0.02
+PRI,Primerica Inc,0.02
+PVTB,PrivateBancorp Inc,0.02
+EDR,Education Realty Trust Inc,0.02
+EPR,EPR Properties,0.02
+NFG,National Fuel Gas Co,0.02
+SON,Sonoco Products Co,0.02
+CBRL,Cracker Barrel Old Country Store Inc,0.02
+OSK,Oshkosh Corp,0.02
+TRIP,TripAdvisor Inc,0.02
+CAKE,Cheesecake Factory Inc,0.02
+WSO,Watsco Inc,0.02
+WEN,Wendy's Co,0.02
+CNK,Cinemark Holdings Inc,0.02
+CFR,Cullen/Frost Bankers Inc,0.02
+CRL,Charles River Laboratories International Inc,0.02
+TXRH,Texas Roadhouse Inc,0.02
+WPX,WPX Energy Inc,0.02
+SNV,Synovus Financial Corp,0.02
+MTX,Minerals Technologies Inc,0.02
+PII,Polaris Industries Inc,0.02
+LANC,Lancaster Colony Corp,0.02
+BOH,Bank of Hawaii Corp,0.02
+HR,Healthcare Realty Trust Inc,0.02
+HRC,Hill-Rom Holdings Inc,0.02
+CHFC,Chemical Financial Corp,0.01
+MANH,Manhattan Associates Inc,0.01
+DLX,Deluxe Corp,0.01
+UMBF,UMB Financial Corp,0.01
+NEU,NewMarket Corp,0.01
+BWLD,Buffalo Wild Wings Inc,0.01
+ATR,AptarGroup Inc,0.01
+OFC,Corporate Office Properties Trust,0.01
+WOR,Worthington Industries Inc,0.01
+BID,Sotheby's,0.01
+TCO,Taubman Centers Inc,0.01
+AMCX,AMC Networks Inc,0.01
+MSA,MSA Safety Inc,0.01
+SXT,Sensient Technologies Corp,0.01
+EGN,Energen Corp,0.01
+BIO,Bio-Rad Laboratories Inc,0.01
+BKH,Black Hills Corp,0.01
+SKT,Tanger Factory Outlet Centers Inc,0.01
+VSAT,ViaSat Inc,0.01
+URBN,Urban Outfitters Inc,0.01
+SWN,Southwestern Energy Co,0.01
+ENR,Energizer Holdings Inc,0.01
+CVLT,CommVault Systems Inc,0.01
+GVA,Granite Construction Inc,0.01
+WGL,WGL Holdings Inc,0.01
+EAT,Bancorp of New Jersey Inc,0.01
+RRC,Range Resources Corp,0.01
+GWR,Genesee & Wyoming Inc,0.01
+ARRS,ARRIS Group Inc,0.01
+VSM,VERSUM MATERIALS INC,0.01
+PZZA,Papa John's International Inc,0.01
+PTEN,Patterson-UTI Energy Inc,0.01
+WBMD,WebMD Health Corp,0.01
+AKRX,Akorn Inc,0.01
+CSRA,CSRA INC,0.01
+LYV,Live Nation Entertainment Inc,0.01
+CHDN,Churchill Downs Inc,0.01
+CONE,CyrusOne Inc,0.01
+CY,Cypress Semiconductor Corp,0.01
+CHK,Chesapeake Energy Corp,0.01
+EME,EMCOR Group Inc,0.01
+NUS,Nu Skin Enterprises Inc,0.01
+MBFI,MB Financial Inc,0.01
+VMI,Valmont Industries Inc,0.01
+PBH,Prestige Brands Holdings Inc,0.01
+GEO,GEO Group Inc,0.01
+NATI,National Instruments Corp,0.01
+FULT,Fulton Financial Corp,0.01
+SBH,Sally Beauty Holdings Inc,0.01
+PRXL,PAREXEL International Corp,0.01
+RYN,Rayonier Inc,0.01
+JOY,Joy Global Inc,0.01
+GPOR,Gulfport Energy Corp,0.01
+UE,Urban Edge Properties,0.01
+CLI,Mack-Cali Realty Corp,0.01
+DY,Dycom Industries Inc,0.01
+CTLT,Catalent Inc,0.01
+KMT,Kennametal Inc,0.01
+BDC,Belden Inc,0.01
+TPX.TO,Molson Coors Canada Inc,0.01
+CEB,CEB Inc,0.01
+CAB,Cabela's Inc,0.01
+QEP,QEP Resources Inc,0.01
+TUP,Tupperware Brands Corp,0.01
+PLT,Plantronics Inc,0.01
+SFM,Sprouts Farmers Market Inc,0.0
+HNI,HNI Corp,0.0
+ACIW,ACI Worldwide Inc,0.0
+PCH,Potlatch Corp,0.0
+JW.A,John Wiley & Sons Inc,0.0
+IBOC,International Bancshares Corp,0.0
+CMP,Compass Minerals International Inc,0.0
+ALEX,Alexander & Baldwin Inc,0.0
+DDD,3D Systems Corp,0.0
+SM,SM Energy Co,0.0
+GATX,GATX Corp,0.0
+ACXM,Acxiom Corp,0.0
+MDP,Meredith Corp,0.0
+TRMK,Trustmark Corp,0.0
+FII,Federated Investors Inc,0.0
+SPN,Superior Energy Services Inc,0.0
+GMED,Globus Medical Inc,0.0
+DECK,Deckers Outdoor Corp,0.0
+CVG,Convergys Corp,0.0
+CHS,Chico's FAS Inc,0.0
+SAM,Boston Beer Co Inc,0.0
+WETF,WisdomTree Investments Inc,0.0
+VSTO,Vista Outdoor Inc,0.0
+TR,Tootsie Roll Industries Inc,0.0
+DNR,Denbury Resources Inc,0.0
+-,DYAX CORP CVR,0.0

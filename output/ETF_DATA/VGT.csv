@@ -1,0 +1,365 @@
+VGT,1.8799999E10
+AAPL,Apple Inc,13.3
+MSFT,Microsoft Corp,9.73
+FB,Facebook Inc,6.15
+GOOGL,Google Inc,4.92
+INTC,Intel Corp,3.53
+IBM,International Business Machines Corp,3.22
+V,Visa Inc,3.17
+CSCO,Cisco Systems Inc,3.14
+ORCL,Oracle Corp,2.52
+MA,MasterCard Inc,2.09
+AVGO,Avago Technologies Ltd,1.6
+QCOM,QUALCOMM Inc,1.6
+TXN,Texas Instruments Inc,1.54
+ACN,Accenture PLC,1.44
+NVDA,NVIDIA Corp,1.18
+ADBE,Adobe Systems Inc,1.14
+CRM,salesforce.com inc,1.03
+ADP,Automatic Data Processing Inc,0.93
+PYPL,PayPal Holdings Inc,0.87
+YHOO,Yahoo! Inc,0.81
+HPE,HEWLETT PACKA,0.76
+AMAT,Applied Materials Inc,0.75
+EBAY,eBay Inc,0.69
+CTSH,Cognizant Technology Solutions Corp,0.64
+INTU,Intuit Inc,0.58
+GLW,Corning Inc,0.55
+TEL,TE Connectivity Ltd,0.53
+HPQ,Hewlett-Packard Co,0.52
+EA,Electronic Arts Inc,0.51
+MU,Micron Technology Inc,0.5
+FIS,Fidelity National Information Services Inc,0.5
+ATVI,Activision Blizzard Inc,0.48
+FISV,Fiserv Inc,0.48
+ADI,Analog Devices Inc,0.46
+WDC,Western Digital Corp,0.46
+APH,Amphenol Corp,0.42
+PAYX,Paychex Inc,0.39
+LRCX,Lam Research Corp,0.37
+SWKS,Skyworks Solutions Inc,0.35
+SYMC,Symantec Corp,0.34
+ADSK,Autodesk Inc,0.33
+LLTC,Linear Technology Corp,0.3
+NOW,ServiceNow Inc,0.3
+XLNX,Xilinx Inc,0.3
+MCHP,Microchip Technology Inc,0.29
+CTXS,Citrix Systems Inc,0.28
+DVMT,DELL TECH-CL V,0.28
+RHT,Red Hat Inc,0.27
+FLT,FleetCor Technologies Inc,0.27
+STX,Seagate Technology PLC,0.27
+ADS,Alliance Data Systems Corp,0.27
+KLAC,KLA-Tencor Corp,0.27
+PANW,Palo Alto Networks Inc,0.26
+HRS,Harris Corp,0.25
+MXIM,Maxim Integrated Products Inc,0.25
+MSI,Motorola Solutions Inc,0.24
+AKAM,Akamai Technologies Inc,0.24
+GPN,Global Payments Inc,0.24
+NTAP,NetApp Inc,0.21
+TWTR,Twitter Inc,0.2
+WDAY,Workday Inc,0.2
+CA,CA Inc,0.2
+VNTV,Vantiv Inc,0.19
+WU,Western Union Co,0.19
+SNPS,Synopsys Inc,0.19
+JNPR,Juniper Networks Inc,0.18
+FFIV,F5 Networks Inc,0.18
+CSC,Computer Sciences Corp,0.17
+FLEX,Flextronics International Ltd,0.17
+TSS,Total System Services Inc,0.17
+IT,Gartner Inc,0.16
+QRVO,Qorvo Inc,0.16
+ANSS,ANSYS Inc,0.16
+CDK,CDK Global Inc,0.16
+AMD,Advanced Micro Devices Inc,0.16
+BR,Broadridge Financial Solutions Inc,0.16
+VRSN,VeriSign Inc,0.15
+SPLK,Splunk Inc,0.15
+CDNS,Cadence Design Systems Inc,0.15
+CDW,CDW Corp/DE,0.15
+TRMB,Trimble Navigation Ltd,0.15
+MELI,MercadoLibre Inc,0.15
+COMM,CommScope Holding Co Inc,0.14
+JKHY,Jack Henry & Associates Inc,0.14
+ARW,Arrow Electronics Inc,0.13
+CSGP,CoStar Group Inc,0.13
+VMW,VMware Inc,0.13
+LDOS,Leidos Holdings Inc,0.13
+MRVL,Marvell Technology Group Ltd,0.13
+KEYS,Keysight Technologies Inc,0.12
+PTC,PTC Inc,0.12
+MSCC,Microsemi Corp,0.12
+XRX,Xerox Corp,0.12
+AVT,Avnet Inc,0.12
+SSNC,SS&C Technologies Holdings Inc,0.11
+TER,Teradyne Inc,0.11
+ON,ON Semiconductor Corp,0.11
+CGNX,Cognex Corp,0.11
+ULTI,Ultimate Software Group Inc,0.1
+NCR,NCR Corp,0.1
+ARRS,ARRIS Group Inc,0.1
+CSRA,CSRA INC,0.1
+SABR,Sabre Corp,0.1
+IAC,IAC/INTERACTIVEC,0.1
+TYL,Tyler Technologies Inc,0.1
+BAH,Booz Allen Hamilton Holding Corp,0.1
+BRCD,Brocade Communications Systems Inc,0.1
+WEX,WEX Inc,0.1
+FTNT,Fortinet Inc,0.09
+FLIR,FLIR Systems Inc,0.09
+FDC,FIRST DATA COR-A,0.09
+TTWO,Take-Two Interactive Software Inc,0.09
+ZBRA,Zebra Technologies Corp,0.09
+CAVM,Cavium Inc,0.08
+IPGP,IPG Photonics Corp,0.08
+NUAN,Nuance Communications Inc,0.08
+ANET,Arista Networks Inc,0.08
+AZPN,Aspen Technology Inc,0.08
+JBL,Jabil Circuit Inc,0.08
+Z,Zillow Group Inc,0.08
+JCOM,j2 Global Inc,0.07
+FICO,Fair Isaac Corp,0.07
+GWRE,Guidewire Software Inc,0.07
+CY,Cypress Semiconductor Corp,0.07
+CRUS,Cirrus Logic Inc,0.07
+MANH,Manhattan Associates Inc,0.07
+NATI,National Instruments Corp,0.07
+MMS,MAXIMUS Inc,0.07
+SNX,SYNNEX Corp,0.07
+DST,DST Systems Inc,0.07
+EEFT,Euronet Worldwide Inc,0.07
+LFUS,Littelfuse Inc,0.07
+MKSI,MKS Instruments Inc,0.07
+SAIC,Science Applications International Corp,0.07
+VSAT,ViaSat Inc,0.07
+COHR,Coherent Inc,0.07
+TDC,Teradata Corp,0.07
+MENT,Mentor Graphics Corp,0.06
+IDTI,Integrated Device Technology Inc,0.06
+CIEN,Ciena Corp,0.06
+MPWR,Monolithic Power Systems Inc,0.06
+FNSR,Finisar Corp,0.06
+BDC,Belden Inc,0.06
+PFPT,Proofpoint Inc,0.06
+IDCC,InterDigital Inc/PA,0.06
+BLKB,Blackbaud Inc,0.06
+CLGX,CoreLogic Inc/United States,0.06
+ISIL,Intersil Corp,0.06
+TECD,Tech Data Corp,0.06
+CACI,CACI International Inc,0.06
+EPAM,EPAM Systems Inc,0.06
+YELP,Yelp Inc,0.05
+VSM,VERSUM MATER,0.05
+SANM,Sanmina Corp,0.05
+P,Pandora Media Inc,0.05
+GRUB,GrubHub Inc,0.05
+OLED,Universal Display Corp,0.05
+CREE,Cree Inc,0.05
+ELLI,Ellie Mae Inc,0.05
+NTCT,NetScout Systems Inc,0.05
+LOGM,LogMeIn Inc,0.05
+DATA,Tableau Software Inc,0.05
+DLB,Dolby Laboratories Inc,0.05
+ENTG,Entegris Inc,0.05
+SLAB,Silicon Laboratories Inc,0.05
+CNDT,CONDUENT INC,0.05
+AXE,Anixter International Inc,0.05
+CATM,Cardtronics Inc,0.05
+FSLR,First Solar Inc,0.04
+CVG,Convergys Corp,0.04
+SATS,EchoStar Corp,0.04
+AEIS,Advanced Energy Industries Inc,0.04
+VRNT,Verint Systems Inc,0.04
+TIVO,TiVo Inc,0.04
+ACIW,ACI Worldwide Inc,0.04
+VSH,Vishay Intertechnology Inc,0.04
+ITRI,Itron Inc,0.04
+TSRA,Tessera Technologies Inc,0.04
+CSOD,Cornerstone OnDemand Inc,0.04
+SMTC,Semtech Corp,0.04
+EFII,Electronics For Imaging Inc,0.04
+VIAV,VIAVI SOLUTIONS,0.04
+CVLT,CommVault Systems Inc,0.04
+IIVI,II-VI Inc,0.04
+FEYE,FireEye Inc,0.04
+POWI,Power Integrations Inc,0.04
+MLNX,Mellanox Technologies Ltd,0.04
+ACXM,Acxiom Corp,0.04
+HAWK,Blackhawk Network Holdings Inc,0.04
+PAY,VeriFone Systems Inc,0.04
+CMPR,Cimpress NV,0.04
+STMP,Stamps.com Inc,0.04
+MTSI,M/A-COM Technology Solutions Holdings Inc,0.04
+SYNA,Synaptics Inc,0.04
+DBD,Diebold Inc,0.04
+PAYC,Paycom Software Inc,0.03
+ZNGA,Zynga Inc,0.03
+MSTR,MicroStrategy Inc,0.03
+WBMD,WebMD Health Corp,0.03
+PLT,Plantronics Inc,0.03
+NTGR,NETGEAR Inc,0.03
+ZG,ZILLOW GROUP I-A,0.03
+PLXS,Plexus Corp,0.03
+LITE,Lumentum Holdings Inc,0.03
+NSR,NeuStar Inc,0.03
+GDDY,GoDaddy Inc,0.03
+ZEN,Zendesk Inc,0.03
+TVPT,Travelport Worldwide Ltd,0.03
+UBNT,Ubiquiti Networks Inc,0.03
+DDD,3D Systems Corp,0.03
+RP,RealPage Inc,0.03
+IPHI,Inphi Corp,0.03
+AMBA,Ambarella Inc,0.03
+CCMP,Cabot Microelectronics Corp,0.03
+SQ,SQUARE INC - A,0.03
+OCLR,Oclaro Inc,0.03
+KN,Knowles Corp,0.03
+SNCR,Synchronoss Technologies Inc,0.03
+CSGS,CSG Systems International Inc,0.03
+SCOR,comScore Inc,0.03
+EXLS,ExlService Holdings Inc,0.03
+EGOV,NIC Inc,0.03
+BHE,Benchmark Electronics Inc,0.03
+MXL,MaxLinear Inc,0.03
+MEI,Methode Electronics Inc,0.03
+PEGA,Pegasystems Inc,0.03
+ENV,Envestnet Inc,0.03
+ROG,Rogers Corp,0.02
+EBIX,Ebix Inc,0.02
+EGHT,8x8 Inc,0.02
+RMBS,Rambus Inc,0.02
+OSIS,OSI Systems Inc,0.02
+NSIT,Insight Enterprises Inc,0.02
+FN,Fabrinet,0.02
+INFN,Infinera Corp,0.02
+PRGS,Progress Software Corp,0.02
+KLIC,KULICKE & SOFFA,0.02
+BSFT,BroadSoft Inc,0.02
+IMPV,Imperva Inc,0.02
+TWOU,2U Inc,0.02
+TTMI,TTM Technologies Inc,0.02
+BRKS,Brooks Automation Inc,0.02
+RNG,RingCentral Inc,0.02
+SPSC,SPS Commerce Inc,0.02
+HUBS,HubSpot Inc,0.02
+CALD,Callidus Software Inc,0.02
+BMI,Badger Meter Inc,0.02
+XXIA,Ixia,0.02
+INVN,InvenSense Inc,0.02
+SYKE,Sykes Enterprises Inc,0.02
+EVTC,EVERTEC Inc,0.02
+EPAY,Bottomline Technologies de Inc,0.02
+ADTN,ADTRAN Inc,0.02
+SSTK,Shutterstock Inc,0.02
+VECO,Veeco Instruments Inc,0.02
+DIOD,Diodes Inc,0.02
+SMCI,Super Micro Computer Inc,0.02
+SCSC,ScanSource Inc,0.02
+AMKR,Amkor Technology Inc,0.02
+QLYS,Qualys Inc,0.02
+MANT,ManTech International Corp/VA,0.02
+MTSC,MTS Systems Corp,0.02
+GIMO,Gigamon Inc,0.01
+NEWR,New Relic Inc,0.01
+TYPE,Monotype Imaging Holdings Inc,0.01
+BKFS,BLACK KNIGHT F-A,0.01
+LSCC,Lattice Semiconductor Corp,0.01
+FORM,FormFactor Inc,0.01
+QTWO,Q2 Holdings Inc,0.01
+AVX,AVX Corp,0.01
+WEB,WEB.COM GROUP,0.01
+FIT,Fitbit Inc,0.01
+GTT,GTT Communications Inc,0.01
+PLAB,Photronics Inc,0.01
+BOX,Box Inc,0.01
+PLUS,ePlus Inc,0.01
+CEVA,CEVA Inc,0.01
+NOVT,NOVANTA INC,0.01
+VRTU,Virtusa Corp,0.01
+CASS,Cass Information Systems Inc,0.01
+PCTY,Paylocity Holding Corp,0.01
+MTCH,MATCH GROUP INC,0.01
+SYNT,Syntel Inc,0.01
+QUOT,QUOTIENT TECHNOL,0.01
+CRAY,Cray Inc,0.01
+RTEC,Rudolph Technologies Inc,0.01
+ELNK,EarthLink Holdings Corp,0.01
+UTEK,Ultratech Inc,0.01
+CTS,CTS Corp,0.01
+PRFT,Perficient Inc,0.01
+MITL,Mitel Networks Corp,0.01
+TWLO,TWILIO INC - A,0.01
+NANO,Nanometrics Inc,0.01
+FARO,FARO Technologies Inc,0.01
+UIS,Unisys Corp,0.01
+TRUE,TrueCar Inc,0.01
+BCOR,Blucora Inc,0.01
+FIVN,Five9 Inc,0.01
+RATE,Bankrate Inc,0.01
+PDFS,PDF Solutions Inc,0.01
+UEPS,Net 1 UEPS Technologies Inc,0.01
+PRO,PROS Holdings Inc,0.01
+CUDA,Barracuda Networks Inc,0.01
+EIGI,Endurance International Group Holdings Inc,0.01
+CAMP,CalAmp Corp,0.01
+GOGO,Gogo Inc,0.01
+NMBL,Nimble Storage Inc,0.01
+TTEC,TeleTech Holdings Inc,0.01
+XOXO,XO Group Inc,0.01
+KE,Kimball Electronics Inc,0.01
+SHOR,ShoreTel Inc,0.01
+VDSI,VASCO Data Security International Inc,0.0
+ACTA,Actua Corp,0.0
+NTNX,NUTANIX INC - A,0.0
+PSTG,PURE STORAGE-A,0.0
+EXAR,Exar Corp,0.0
+SSNI,Silver Spring Networks Inc,0.0
+CHUBK,COMMERCEHUB-C,0.0
+HLIT,Harmonic Inc,0.0
+SPWR,SunPower Corp,0.0
+LPSN,LivePerson Inc,0.0
+BNFT,Benefitfocus Inc,0.0
+SYX,Systemax Inc,0.0
+EVRI,EVERI HOLDINGS I,0.0
+MB,MINDBODY Inc,0.0
+TNGO,Tangoe Inc,0.0
+CMTL,Comtech Telecommunications Corp,0.0
+ANGI,Angie's List Inc,0.0
+GLUU,Glu Mobile Inc,0.0
+WK,Workiva Inc,0.0
+DHX,DHI Group Inc,0.0
+CHUBA,COMMERCEHUB-A,0.0
+RPD,Rapid7 Inc,0.0
+JIVE,Jive Software Inc,0.0
+ENOC,EnerNOC Inc,0.0
+BBOX,Black Box Corp,0.0
+FUEL,Rocket Fuel Inc,0.0
+INAP,Internap Corp,0.0
+PMTS,CPI CARD GROUP I,0.0
+APPF,Appfolio Inc,0.0
+AVID,Avid Technology Inc,0.0
+MOBL,MobileIron Inc,0.0
+INST,INSTRUCTURE INC,0.0
+KODK,Eastman Kodak Co,0.0
+BV,Bazaarvoice Inc,0.0
+VRNS,Varonis Systems Inc,0.0
+FORR,Forrester Research Inc,0.0
+ATEN,A10 Networks Inc,0.0
+PKE,Park Electrochemical Corp,0.0
+AOSL,Alpha & Omega Semiconductor Ltd,0.0
+MGI,MoneyGram International Inc,0.0
+DAKT,Daktronics Inc,0.0
+HDP,Hortonworks Inc,0.0
+CNXN,PC CONNECTION,0.0
+NPTN,NeoPhotonics Corp,0.0
+RUBI,Rubicon Project Inc,0.0
+SALE,RetailMeNot Inc,0.0
+QADA,QAD Inc,0.0
+IXYS,IXYS Corp,0.0
+SEDG,SolarEdge Technologies Inc,0.0
+ALRM,Alarm.com Holdings Inc,0.0
+SONS,Sonus Networks Inc,0.0
+CALX,Calix Inc,0.0
+XCRA,Xcerra Corp,0.0

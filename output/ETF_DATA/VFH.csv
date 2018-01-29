@@ -1,0 +1,402 @@
+VFH,8.2099999E9
+JPM,JPMorgan Chase & Co,8.71
+WFC,Wells Fargo & Co,7.69
+BAC,Bank of America Corp,6.58
+BRK.B,Berkshire Hathaway Inc,5.69
+C,Citigroup Inc,4.62
+USB,US Bancorp,2.56
+GS,Goldman Sachs Group Inc,2.38
+AIG,American International Group Inc,1.96
+CB,Chubb Corp,1.74
+MS,Morgan Stanley,1.73
+AXP,American Express Co,1.7
+PNC,PNC Financial Services Group Inc,1.68
+MET,MetLife Inc,1.44
+SCHW,Charles Schwab Corp,1.39
+BK,Bank of New York Mellon Corp,1.36
+PRU,Prudential Financial Inc,1.3
+BLK,BlackRock Inc,1.3
+COF,Capital One Financial Corp,1.26
+CME,CME Group Inc/IL,1.16
+BBT,BB&T Corp,1.07
+MMC,Marsh & McLennan Cos Inc,1.0
+ICE,Intercontinental Exchange Inc,0.99
+TRV,Travelers Cos Inc,0.96
+SPGI,S&P GLOBAL INC,0.9
+AON,Aon PLC,0.85
+SYF,Synchrony Financial,0.85
+STT,State Street Corp,0.84
+AFL,Aflac Inc,0.81
+STI,SunTrust Banks Inc,0.8
+DFS,Discover Financial Services,0.79
+ALL,Allstate Corp,0.79
+MTB,M&T Bank Corp,0.65
+PGR,Progressive Corp,0.62
+FITB,Fifth Third Bancorp,0.57
+KEY,KeyCorp,0.55
+HIG,Hartford Financial Services Group Inc,0.53
+CFG,Citizens Financial Group Inc,0.53
+AMP,Ameriprise Financial Inc,0.51
+RF,Regions Financial Corp,0.51
+MCO,Moody's Corp,0.51
+NTRS,Northern Trust Corp,0.5
+TROW,T Rowe Price Group Inc,0.47
+PFG,Principal Financial Group Inc,0.46
+WLTW,WILLIS TOWERS WA,0.46
+LNC,Lincoln National Corp,0.44
+BEN,Franklin Resources Inc,0.42
+HBAN,Huntington Bancshares Inc/OH,0.41
+FRC,First Republic Bank/CA,0.4
+L,Loews Corp,0.38
+MKL,Markel Corp,0.36
+AMTD,TD Ameritrade Holding Corp,0.34
+IVZ,Invesco Ltd,0.33
+CMA,Comerica Inc,0.33
+CINF,Cincinnati Financial Corp,0.31
+ACGL,Arch Capital Group Ltd,0.3
+UNM,Unum Group,0.3
+XL,XL Group PLC,0.29
+ETFC,E*TRADE Financial Corp,0.29
+NLY,Annaly Capital Management Inc,0.29
+RJF,Raymond James Financial Inc,0.27
+AJG,Arthur J Gallagher & Co,0.27
+Y,Alleghany Corp,0.26
+RE,Everest Re Group Ltd,0.26
+ALLY,Ally Financial Inc,0.26
+SIVB,SVB Financial Group,0.25
+FNF,FNF Group,0.24
+ZION,Zions Bancorporation,0.24
+SBNY,Signature Bank/New York NY,0.24
+TMK,Torchmark Corp,0.23
+CIT,CIT Group Inc,0.23
+AMG,Affiliated Managers Group Inc,0.23
+NDAQ,NASDAQ OMX Group Inc,0.23
+VOYA,Voya Financial Inc,0.23
+RGA,Reinsurance Group of America Inc,0.22
+LUK,Leucadia National Corp,0.22
+MSCI,MSCI Inc,0.21
+EWBC,East West Bancorp Inc,0.21
+NYCB,New York Community Bancorp Inc,0.21
+MKTX,MarketAxess Holdings Inc,0.2
+FDS,FactSet Research Systems Inc,0.2
+SEIC,SEI Investments Co,0.19
+WRB,WR Berkley Corp,0.18
+CBOE,CBOE Holdings Inc,0.18
+PACW,PacWest Bancorp,0.18
+AGNC,American Capital Agency Corp,0.17
+AFG,American Financial Group Inc/OH,0.17
+ENH,Endurance Specialty Holdings Ltd,0.17
+AIZ,Assurant Inc,0.16
+PBCT,People's United Financial Inc,0.16
+AXS,Axis Capital Holdings Ltd,0.16
+STWD,Starwood Property Trust Inc,0.16
+OZRK,Bank of the Ozarks Inc,0.16
+RNR,RenaissanceRe Holdings Ltd,0.16
+CBSH,Commerce Bancshares Inc/MO,0.14
+AGO,Assured Guaranty Ltd,0.14
+SNV,Synovus Financial Corp,0.14
+ORI,Old Republic International Corp,0.14
+BRO,Brown & Brown Inc,0.14
+CFR,Cullen/Frost Bankers Inc,0.14
+WBS,Webster Financial Corp,0.13
+PB,Prosperity Bancshares Inc,0.13
+NAVI,Navient Corp,0.13
+EV,Eaton Vance Corp,0.13
+WAL,Western Alliance Bancorp,0.13
+FHN,First Horizon National Corp,0.13
+AWH,Allied World Assurance Co Holdings AG,0.13
+BPOP,Popular Inc,0.13
+VR,Validus Holdings Ltd,0.13
+WTM,White Mountains Insurance Group Ltd,0.12
+ISBC,Investors Bancorp Inc,0.12
+NRZ,New Residential Investment Corp,0.12
+UMPQ,Umpqua Holdings Corp,0.11
+BKU,BankUnited Inc,0.11
+RDN,Radian Group Inc,0.11
+SLM,SLM Corp,0.11
+PVTB,PrivateBancorp Inc,0.11
+FAF,First American Financial Corp,0.11
+TCBI,Texas Capital Bancshares Inc,0.11
+HBHC,Hancock Holding Co,0.1
+ASB,Associated Banc-Corp,0.1
+WTFC,Wintrust Financial Corp,0.1
+BOH,Bank of Hawaii Corp,0.1
+IBKC,IBERIABANK Corp,0.1
+UBSI,United Bankshares Inc/WV,0.1
+MTG,MGIC Investment Corp,0.1
+THG,Hanover Insurance Group Inc,0.1
+PRI,Primerica Inc,0.1
+CHFC,Chemical Financial Corp,0.09
+HOMB,Home BancShares Inc/AR,0.09
+AHL,Aspen Insurance Holdings Ltd,0.09
+SF,Stifel Financial Corp,0.09
+CNO,CNO Financial Group Inc,0.09
+UMBF,UMB Financial Corp,0.09
+FULT,Fulton Financial Corp,0.09
+LPLA,LPL Financial Holdings Inc,0.09
+CIM,Chimera Investment Corp,0.09
+FNB,FNB Corp/PA,0.09
+PNFP,Pinnacle Financial Partners Inc,0.08
+MBFI,MB Financial Inc,0.08
+TWO,Two Harbors Investment Corp,0.08
+EVR,Evercore Partners Inc,0.08
+WAFD,Washington Federal Inc,0.08
+STL,Sterling Bancorp/DE,0.08
+LM,Legg Mason Inc,0.08
+VLY,Valley National Bancorp,0.08
+MFA,MFA Financial Inc,0.08
+PRA,ProAssurance Corp,0.08
+BXMT,Blackstone Mortgage Trust Inc,0.08
+ERIE,Erie Indemnity Co,0.08
+TCB,TCF Financial Corp,0.08
+CATY,Cathay General Bancorp,0.07
+GBCI,Glacier Bancorp Inc,0.07
+HOPE,HOPE BANCORP INC,0.07
+FCNCA,First Citizens BancShares Inc/NC,0.07
+CBU,Community Bank System Inc,0.07
+TPL,TEXAS PAC LAND,0.07
+BXS,BancorpSouth Inc,0.07
+GWB,Great Western Bancorp Inc,0.07
+SSB,South State Corp,0.07
+FII,Federated Investors Inc,0.06
+SIGI,Selective Insurance Group Inc,0.06
+IBKR,Interactive Brokers Group Inc,0.06
+RLI,RLI Corp,0.06
+CVBF,CVB Financial Corp,0.06
+COLB,Columbia Banking System Inc,0.06
+TRMK,Trustmark Corp,0.06
+BGCP,BGC Partners Inc,0.06
+ONB,Old National Bancorp/IN,0.06
+ESNT,Essent Group Ltd,0.06
+AFSI,AmTrust Financial Services Inc,0.06
+FFIN,First Financial Bankshares Inc,0.06
+EVER,EverBank Financial Corp,0.06
+HTH,Hilltop Holdings Inc,0.06
+FNGN,Financial Engines Inc,0.06
+IBOC,International Bancshares Corp,0.06
+AEL,American Equity Investment Life Holding Co,0.05
+FCFS,First Cash Financial Services Inc,0.05
+ESGR,Enstar Group Ltd,0.05
+CFFN,Capitol Federal Financial Inc,0.05
+FMBI,First Midwest Bancorp Inc/IL,0.05
+AGII,Argo Group International Holdings Ltd,0.05
+UCBI,United Community Banks Inc/GA,0.05
+LTXB,LegacyTexas Financial Group Inc,0.05
+PRAA,PRA Group Inc,0.05
+EGBN,Eagle Bancorp Inc,0.05
+JNS,Janus Capital Group Inc,0.05
+TOWN,Towne Bank/Portsmouth VA,0.05
+SFBS,ServisFirst Bancshares Inc,0.05
+KMPR,Kemper Corp,0.05
+NBTB,NBT Bancorp Inc,0.05
+MCY,Mercury General Corp,0.05
+WSBC,WesBanco Inc,0.04
+AF,Astoria Financial Corp,0.04
+FFBC,First Financial Bancorp,0.04
+BOFI,BofI Holding Inc,0.04
+RNST,Renasant Corp,0.04
+GNW,Genworth Financial Inc,0.04
+HMN,Horace Mann Educators Corp,0.04
+NWBI,Northwest Bancshares Inc,0.04
+SC,Santander Consumer USA Holdings Inc,0.04
+BNCN,BNC Bancorp,0.04
+SFNC,Simmons First National Corp,0.04
+INDB,Independent Bank Corp/Rockland MA,0.04
+IVR,Invesco Mortgage Capital Inc,0.04
+BOKF,BOK Financial Corp,0.04
+UBSH,Union Bankshares Corp,0.04
+FCB,FCB Financial Holdings Inc,0.04
+PFS,Provident Financial Services Inc,0.04
+ARI,Apollo Commercial Real Estate Finance Inc,0.04
+WDR,Waddell & Reed Financial Inc,0.04
+ABCB,Ameris Bancorp,0.04
+FRME,First Merchants Corp,0.04
+MORN,Morningstar Inc,0.04
+CACC,Credit Acceptance Corp,0.04
+LC,LendingClub Corp,0.04
+WABC,Westamerica Bancorporation,0.04
+PRK,Park National Corp,0.04
+NGHC,National General Holdings Corp,0.04
+YDKN,Yadkin Financial Corp,0.04
+NAVG,Navigators Group Inc,0.04
+BNCL,Beneficial Bancorp Inc,0.03
+BPFH,Boston Private Financial Holdings Inc,0.03
+KRNY,Kearny Financial Corp/MD,0.03
+OMF,ONEMAIN HOLDINGS,0.03
+MBI,MBIA Inc,0.03
+STBA,S&T Bancorp Inc,0.03
+WSFS,WSFS Financial Corp,0.03
+TFSL,TFS Financial Corp,0.03
+FCF,First Commonwealth Financial Corp,0.03
+CSFL,CenterState Banks Inc,0.03
+AMSF,AMERISAFE Inc,0.03
+WETF,WisdomTree Investments Inc,0.03
+RWT,Redwood Trust Inc,0.03
+EIG,Employers Holdings Inc,0.03
+GDOT,Green Dot Corp,0.03
+TMP,Tompkins Financial Corp,0.03
+APAM,Artisan Partners Asset Management Inc,0.03
+CYS,CYS Investments Inc,0.03
+NNI,Nelnet Inc,0.03
+LKFN,Lakeland Financial Corp,0.03
+CBF,Capital Bank Financial Corp,0.03
+BRKL,Brookline Bancorp Inc,0.03
+BHLB,Berkshire Hills Bancorp Inc,0.03
+PPBI,Pacific Premier Bancorp Inc,0.03
+PMT,PennyMac Mortgage Investment Trust,0.03
+HAFC,Hanmi Financial Corp,0.03
+PJC,Piper Jaffray Cos,0.03
+MHLD,Maiden Holdings Ltd,0.03
+SAFT,Safety Insurance Group Inc,0.03
+HTLF,Heartland Financial USA Inc,0.02
+CMO,Capstead Mortgage Corp,0.02
+UFCS,United Fire Group Inc,0.02
+CFNL,Cardinal Financial Corp,0.02
+STC,Stewart Information Services Corp,0.02
+SASR,Sandy Spring Bancorp Inc,0.02
+CPF,Central Pacific Financial Corp,0.02
+CHCO,City Holding Co,0.02
+IPCC,Infinity Property & Casualty Corp,0.02
+CUBI,Customers Bancorp Inc,0.02
+EBSB,Meridian Bancorp Inc,0.02
+SYBT,Stock Yards Bancorp Inc,0.02
+FBP,First BanCorp/Puerto Rico,0.02
+AMBC,Ambac Financial Group Inc,0.02
+BANR,Banner Corp,0.02
+ANAT,American National Insurance Co,0.02
+STBZ,State Bank Financial Corp,0.02
+SBSI,Southside Bancshares Inc,0.02
+KCG,KCG Holdings Inc,0.02
+FNFV,FNFV Group,0.02
+BUSE,First Busey Corp,0.02
+NBHC,National Bank Holdings Corp,0.02
+WD,Walker & Dunlop Inc,0.02
+UBNK,United Financial Bancorp Inc,0.02
+MC,Moelis & Co,0.02
+UVE,Universal Insurance Holdings Inc,0.02
+TREE,LendingTree Inc,0.02
+EFSC,Enterprise Financial Services Corp,0.02
+GHL,Greenhill & Co Inc,0.02
+FIBK,First Interstate BancSystem Inc,0.02
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc,0.02
+TRST,TrustCo Bank Corp NY,0.02
+OMAM,OM Asset Management Plc,0.02
+NFBK,Northfield Bancorp Inc,0.02
+WASH,Washington Trust Bancorp Inc,0.02
+FFG,FBL Financial Group Inc,0.02
+LBAI,Lakeland Bancorp Inc,0.02
+PHH,PHH Corp,0.02
+OCFC,OceanFirst Financial Corp,0.02
+LADR,Ladder Capital Corp,0.02
+ARR,ARMOUR Residential REIT Inc,0.02
+HFWA,Heritage Financial Corp/WA,0.02
+TCBK,TriCo Bancshares,0.02
+SRCE,1st Source Corp,0.02
+MSFG,MainSource Financial Group Inc,0.02
+ECPG,Encore Capital Group Inc,0.02
+FFIC,Flushing Financial Corp,0.02
+CTBI,Community Trust Bancorp Inc,0.02
+VRTS,Virtus Investment Partners Inc,0.02
+CNS,Cohen & Steers Inc,0.02
+CASH,Meta Financial Group Inc,0.02
+UVSP,Univest Corp of Pennsylvania,0.02
+NWLI,National Western Life Insurance Co,0.02
+CNOB,ConnectOne Bancorp Inc,0.02
+NSM,Nationstar Mortgage Holdings Inc,0.02
+JRVR,JAMES RIVER GROU,0.02
+NYMT,New York Mortgage Trust Inc,0.02
+GLRE,Greenlight Capital Re Ltd,0.02
+DCOM,Dime Community Bancshares Inc,0.02
+MTGE,American Capital Mortgage Investment Corp,0.02
+IBTX,Independent Bank Group Inc,0.02
+TPRE,Third Point Reinsurance Ltd,0.01
+RESI,Altisource Residential Corp,0.01
+ORIT,Oritani Financial Corp,0.01
+BANC,Banc of California Inc,0.01
+DFIN,DONNELLEY FINANC,0.01
+COBZ,CoBiz Financial Inc,0.01
+BANF,BancFirst Corp,0.01
+PFBC,Preferred Bank/Los Angeles CA,0.01
+BDGE,Bridge Bancorp Inc,0.01
+SBCF,Seacoast Banking Corp of Florida,0.01
+DHIL,Diamond Hill Investment Group Inc,0.01
+BMTC,Bryn Mawr Bank Corp,0.01
+VIRT,VIRTU FINANCIA-A,0.01
+ACBI,ATLANTIC CAPITAL,0.01
+GBNK,Guaranty Bancorp,0.01
+SNC,State National Cos Inc,0.01
+WMC,Western Asset Mortgage Capital Corp,0.01
+WSBF,Waterstone Financial Inc,0.01
+AROW,Arrow Financial Corp,0.01
+STFC,State Auto Financial Corp,0.01
+CIA,Citizens Inc/TX,0.01
+WHG,Westwood Holdings Group Inc,0.01
+THFF,First Financial Corp/IN,0.01
+HLI,HOULIHAN LOKEY I,0.01
+FFWM,First Foundation Inc,0.01
+ENVA,Enova International Inc,0.01
+GBLI,Global Indemnity PLC,0.01
+AI,Arlington Asset Investment Corp,0.01
+RBCAA,Republic Bancorp Inc/KY,0.01
+HCI,HCI Group Inc,0.01
+COWN,Cowen Group Inc,0.01
+HRTG,Heritage Insurance Holdings Inc,0.01
+LOB,Live Oak Bancshares Inc,0.01
+ACRE,Ares Commercial Real Estate Corp,0.01
+PEBO,Peoples Bancorp Inc/OH,0.01
+FISI,Financial Institutions Inc,0.01
+BHBK,Blue Hills Bancorp Inc,0.01
+PJT,PJT PARTNERS - A,0.01
+HMST,HomeStreet Inc,0.01
+INTL,INTL. FCStone Inc,0.01
+FLIC,First of Long Island Corp,0.01
+GABC,German American Bancorp Inc,0.01
+FBC,Flagstar Bancorp Inc,0.01
+OFG,OFG Bancorp,0.01
+SGBK,Stonegate Bank,0.01
+ITG,Investment Technology Group Inc,0.01
+FBNC,First Bancorp/Southern Pines NC,0.01
+NMIH,NMI Holdings Inc,0.01
+TSC,TriState Capital Holdings Inc,0.01
+LION,Fidelity Southern Corp,0.01
+OCN,Ocwen Financial Corp,0.01
+MITT,AG Mortgage Investment Trust Inc,0.01
+OPB,Opus Bank,0.01
+ANH,Anworth Mortgage Asset Corp,0.01
+GSBC,Great Southern Bancorp Inc,0.01
+AGM,Federal Agricultural Mortgage Corp,0.01
+OKSB,Southwest Bancorp Inc,0.01
+EZPW,Ezcorp Inc,0.01
+MSBI,MIDLAND STATES B,0.0
+AC,ASSOCIATED CAP-A,0.0
+DGICA,Donegal Group Inc,0.0
+NEWS,NewStar Financial Inc,0.0
+GBL,GAMCO Investors Inc,0.0
+-,WINTHROP REALTY,0.0
+WAC,Walter Investment Management Corp,0.0
+FNBC,First NBC Bank Holding Co,0.0
+PN,Patriot National Inc,0.0
+FSAM,Fifth Street Asset Management Inc,0.0
+DS,DRIVE SHACK INC,0.0
+CLNS,COLONY NORTHST-A,0.0
+BWINB,Baldwin & Lyons Inc,0.0
+LTS,Ladenburg Thalmann Financial Services Inc,0.0
+WMIH,WMIH CORP,0.0
+PFSI,PennyMac Financial Services Inc,0.0
+CSBK,Clifton Bancorp Inc,0.0
+WRLD,World Acceptance Corp,0.0
+PICO,PICO Holdings Inc,0.0
+DX,Dynex Capital Inc,0.0
+ABR,Arbor Realty Trust Inc,0.0
+FGL,Fidelity & Guaranty Life,0.0
+HONE,HARBORONE BANCOR,0.0
+SNBC,Sun Bancorp Inc/NJ,0.0
+TRUP,Trupanion Inc,0.0
+RSO,Resource Capital Corp,0.0
+SFE,Safeguard Scientifics Inc,0.0
+EMCI,EMC Insurance Group Inc,0.0
+UIHC,United Insurance Holdings Corp,0.0
+OB,OneBeacon Insurance Group Ltd,0.0
+CRD.B,Crawford & Co,0.0
+ONDK,On Deck Capital Inc,0.0
+PZN,Pzena Investment Management Inc,0.0

@@ -1,8 +1,7 @@
 package Utils;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.PrintWriter;
+import java.io.*;
+import java.util.ArrayList;
 
 public class FileUtils {
     public static PrintWriter MakeNewFile(String filename) {
@@ -24,5 +23,23 @@ public class FileUtils {
         }else{
             System.out.println("FAILED DELETING: " + filename);
         }
+    }
+
+    public static ArrayList<String> readFileToStringList(String filename) {
+        ArrayList<String> lines = new ArrayList<>();
+        BufferedReader reader;
+        try {
+            reader = new BufferedReader(new FileReader(filename));
+            String line = reader.readLine();
+            while (line != null) {
+                lines.add(line);
+                line = reader.readLine();
+            }
+            reader.close();
+        } catch (Exception e) {
+            System.out.println("Problem reading " + filename);
+            e.printStackTrace();
+        }
+        return lines;
     }
 }

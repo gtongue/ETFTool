@@ -4,6 +4,10 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class FileUtils {
+
+    public static final String ETF_DATA_LOCATION = "output/ETF_DATA/";
+    public static final String MARKET_CAP_DATA_LOCATION = "output/MARKET_CAP_DATA/";
+
     public static PrintWriter MakeNewFile(String filename) {
         PrintWriter pw = null;
         try {

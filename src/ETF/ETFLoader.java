@@ -10,11 +10,9 @@ import java.util.HashSet;
 
 public class ETFLoader {
 
-    static final String ETF_LOCATION = "output/ETF_DATA/";
-
     public static ArrayList<ETF> loadAllEtfs(){
         ArrayList<ETF> ETFS = new ArrayList<>();
-        File folder = new File(ETF_LOCATION);
+        File folder = new File(FileUtils.ETF_DATA_LOCATION);
         File [] files = folder.listFiles(new FilenameFilter() {
             @Override
             public boolean accept(File dir, String name) {
@@ -41,9 +39,7 @@ public class ETFLoader {
     public static HashSet<String> AllSymbols(ArrayList<ETF> ETFS){
         HashSet<String> symbols = new HashSet<>();
         ETFS.forEach((etf) -> {
-            etf.SymbolMap.keySet().forEach((symbol) -> {
-                symbols.add(symbol);
-            });
+            symbols.addAll(etf.SymbolMap.keySet());
         });
         return symbols;
     }

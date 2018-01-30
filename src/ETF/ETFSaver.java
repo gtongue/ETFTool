@@ -25,8 +25,6 @@ public class ETFSaver {
             "GNR", "JKE", "IDU", "FLGE", "IWC", "DGRO", "VIOO", "RPV", "IYT", "XME", "PHO", "KIE", "SPYG", "XMLV", "EZM", "NFRA", "IVOG", "DSI", "XSLV", "JKD", "IWY", "RHS",
             "KXI", "IVOV", "SLYV", "JKG", "IYK", "XLG", "FPX", "FHLC", "FXL", "IHF", "SPHB", "RFG", "IHE", "SLY", "DTD", "XRT", "IYZ", "VOOV"};
 
-    final static String OUTPUT_DIR = "output/ETF_DATA/";
-
     public static void DownloadETFSList() {
         String HTML = Request.GET(ETF_LIST_URL);
         Document doc = Jsoup.parse(HTML);
@@ -42,7 +40,7 @@ public class ETFSaver {
 
         for(String SYM : ETFS) {
             System.out.println(counter / ETFS.length + "%");
-            PrintWriter pw = FileUtils.MakeNewFile(OUTPUT_DIR + SYM + ".csv");
+            PrintWriter pw = FileUtils.MakeNewFile(FileUtils.ETF_DATA_LOCATION + SYM + ".csv");
             String HTML = Request.GET(ETF_INFO_URL + SYM);
             Document doc = Jsoup.parse(HTML);
 
@@ -74,7 +72,7 @@ public class ETFSaver {
             }
             pw.close();
             if(delete)
-                FileUtils.Delete(OUTPUT_DIR + SYM + ".csv");
+                FileUtils.Delete(FileUtils.MARKET_CAP_DATA_LOCATION + SYM + ".csv");
             counter++;
         }
     }

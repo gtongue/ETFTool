@@ -30,7 +30,6 @@ public class ETFLoader {
                 etf.SymbolMap.put(symbolInfo[0], etf.MCAP * (Float.parseFloat(symbolInfo[2])/100));
             });
             ETFS.add(etf);
-            System.out.println(etf);
         }
 
         return ETFS;

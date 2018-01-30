@@ -1,5 +1,7 @@
+import DataAnalysis.ETFAnalysis;
 import ETF.ETF;
 import ETF.ETFLoader;
+import Stock.StockLoader;
 import Utils.NASDAQMarketCap;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -13,6 +15,8 @@ public class test {
     public static void main(String [] args){
 //        ArrayList<ETF> etfs = ETFLoader.loadAllEtfs();
 //        System.out.println(ETFLoader.AllSymbols(etfs).size());
-        NASDAQMarketCap.downloadMarketCapData();
+//        NASDAQMarketCap.downloadMarketCapData();
+//        StockLoader.fetchStocksWithMCAP();
+        ETFAnalysis.generateETFFile();
     }
 }

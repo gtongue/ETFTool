@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public class FileUtils {
 
     public static final String ETF_DATA_LOCATION = "output/ETF_DATA/";
+    public static final String ETF_ANALYSIS_LOCATION = "output/ETF_ANALYSIS/";
     public static final String MARKET_CAP_DATA_LOCATION = "output/MARKET_CAP_DATA/";
 
     public static PrintWriter MakeNewFile(String filename) {
